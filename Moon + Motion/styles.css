@@ -249,8 +249,8 @@ body {
 
 .hero-pretitle {
   font-family: var(--font-headline);
-  font-size: 0.78rem;
-  font-weight: 600;
+  font-size: 0.90rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--accent-teal);
@@ -284,18 +284,18 @@ body {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   color: var(--ink-primary);
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .hero-lead {
   font-family: var(--font-body);
   font-weight: 400;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   color: var(--ink-secondary);
-  line-height: 1.8;
-  max-width: 580px;
+  line-height: 1.85;
+  max-width: 600px;
 }
 
 /* Word Highlights (Zero Underlines) */
@@ -377,8 +377,8 @@ body {
 
 .status-prompt-label {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
-  font-weight: 600;
+  font-size: 0.92rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent-teal);
@@ -388,20 +388,20 @@ body {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   color: var(--ink-secondary);
-  line-height: 1.5;
+  line-height: 1.55;
 }
 
 .pill-badge {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
-  font-weight: 600;
+  font-size: 0.86rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  padding: 5px 12px;
+  padding: 6px 14px;
   border-radius: 0;
-  line-height: 1.1;
+  line-height: 1.15;
   display: inline-block;
 }
 
@@ -548,8 +548,8 @@ body {
 
 .weekday-label {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
-  font-weight: 600;
+  font-size: 0.84rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--ink-muted);
@@ -684,8 +684,8 @@ body {
 
 .cycle-jump-title {
   font-family: var(--font-headline);
-  font-size: 0.74rem;
-  font-weight: 600;
+  font-size: 0.88rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--ink-muted);
@@ -699,11 +699,11 @@ body {
 
 .btn-cycle-jump {
   font-family: var(--font-headline);
-  font-size: 0.74rem;
+  font-size: 0.84rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  padding: 9px 12px;
+  padding: 10px 14px;
   border-radius: 0;
   background: var(--bg-card-elevated);
   border: 1px solid var(--border-medium);
@@ -852,8 +852,8 @@ body {
 
 .metric-label {
   font-family: var(--font-headline);
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.85rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--ink-muted);
@@ -862,7 +862,7 @@ body {
 
 .metric-value {
   font-family: var(--font-headline);
-  font-size: 1.28rem;
+  font-size: 1.35rem;
   font-weight: 600;
   letter-spacing: 0.02em;
   color: var(--ink-primary);
@@ -888,7 +888,7 @@ body {
 
 .theme-title {
   font-family: var(--font-headline);
-  font-size: 1.55rem;
+  font-size: 1.68rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -900,17 +900,17 @@ body {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   color: var(--ink-secondary);
-  line-height: 1.35;
+  line-height: 1.4;
 }
 
 .theme-narrative {
   font-family: var(--font-body);
   font-weight: 400;
-  font-size: 1.02rem;
+  font-size: 1.15rem;
   color: var(--ink-secondary);
-  line-height: 1.8;
+  line-height: 1.85;
 }
 
 /* ==========================================================================
@@ -960,7 +960,7 @@ body {
 
 .card-title {
   font-family: var(--font-headline);
-  font-size: 1.45rem;
+  font-size: 1.55rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -972,7 +972,7 @@ body {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   color: var(--ink-primary);
   line-height: 1.35;
 }
@@ -988,20 +988,20 @@ body {
 .bullet-points-list li {
   font-family: var(--font-body);
   font-weight: 400;
-  font-size: 0.96rem;
+  font-size: 1.10rem;
   color: var(--ink-secondary);
-  line-height: 1.7;
+  line-height: 1.75;
   position: relative;
-  padding-left: 20px;
+  padding-left: 22px;
 }
 
 .bullet-points-list li::before {
   content: '';
   position: absolute;
   left: 2px;
-  top: 10px;
-  width: 5px;
-  height: 5px;
+  top: 11px;
+  width: 6px;
+  height: 6px;
   border-radius: 0;
   background: var(--accent-teal);
 }
@@ -1016,27 +1016,27 @@ body {
   border: 1.5px solid var(--accent-teal);
   border-left: 4px solid var(--accent-teal);
   border-radius: 0;
-  padding: 18px 22px;
+  padding: 20px 24px;
   position: relative;
 }
 
 .inquiry-label {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
+  font-size: 0.95rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent-teal);
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .inquiry-quote {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.18rem;
+  font-size: 1.28rem;
   color: var(--ink-primary);
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 /* What to Lovingly Step Away From Callout */
@@ -1045,18 +1045,18 @@ body {
   border: 1.5px solid var(--border-medium);
   border-left: 3px solid var(--accent-orange);
   border-radius: 0;
-  padding: 16px 20px;
-  margin-top: 18px;
+  padding: 18px 22px;
+  margin-top: 20px;
 }
 
 .pause-label {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
+  font-size: 0.95rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent-orange);
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .pause-list {
@@ -1065,16 +1065,16 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 8px;
 }
 
 .pause-list li {
   font-family: var(--font-body);
-  font-size: 0.92rem;
+  font-size: 1.08rem;
   color: var(--ink-secondary);
-  line-height: 1.55;
+  line-height: 1.7;
   position: relative;
-  padding-left: 18px;
+  padding-left: 20px;
 }
 
 .pause-list li::before {
@@ -1090,25 +1090,25 @@ body {
   background: var(--accent-orange-soft);
   border: 1.5px solid var(--accent-orange-border);
   border-radius: 0;
-  padding: 18px 22px;
+  padding: 20px 24px;
 }
 
 .tuesday-label {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
-  font-weight: 600;
+  font-size: 0.95rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent-orange);
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .tuesday-directive {
   font-family: var(--font-body);
   font-weight: 400;
-  font-size: 0.98rem;
+  font-size: 1.14rem;
   color: var(--ink-primary);
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 /* ==========================================================================
@@ -1205,47 +1205,47 @@ body {
 
 .somatic-eyebrow {
   font-family: var(--font-headline);
-  font-size: 0.72rem;
+  font-size: 0.95rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--accent-teal);
   line-height: 1.3;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .somatic-instruction {
   font-family: var(--font-body);
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--ink-primary);
-  line-height: 1.75;
+  line-height: 1.8;
 }
 
 .transcript-quote-box {
   border-top: 1.5px solid var(--border-delicate);
-  padding-top: 20px;
+  padding-top: 22px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 12px;
 }
 
 .quote-attribution {
   font-family: var(--font-headline);
-  font-size: 0.74rem;
-  font-weight: 600;
+  font-size: 0.90rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: var(--ink-muted);
+  color: var(--ink-primary);
 }
 
 .quote-text {
   font-family: var(--font-subtitle);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.25rem;
-  color: var(--ink-secondary);
-  line-height: 1.65;
+  font-size: 1.38rem;
+  color: var(--ink-primary);
+  line-height: 1.7;
 }
 
 /* Footer & GHL Attribution */
