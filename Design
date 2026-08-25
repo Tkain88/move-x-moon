@@ -1,0 +1,21 @@
+# Moon in Motion — Design Guide
+
+## Brand Aesthetic: "Moon in Motion"
+- **Keywords**: Luxury, Futuristic, High-End Celestial, Gold Accents
+- **Core Concept**: A high-contrast, premium dark mode design combining deep obsidian backgrounds, glowing gold elements, and fine geometric/celestial drawings. Features concentric circle patterns, orbital rings, and celestial diagrams.
+
+## Color Palette
+- **Obsidian / Pure Dark (Background)**: `#0D0D0D` (or `#121212` for container fills)
+- **Metallic Luxury Gold (Primary Accent)**: `#D4AF37` (gradient range from `#F3E5AB` to `#AA7C11`)
+- **Luxury Brass / Gold Accent**: `#C5A059`
+- **Warm Cream / Sand (Typography)**: `#F5F2EB`
+- **Earthy Jewel Accents**:
+  - Deep Maroon: `#5C1615` (structured elements)
+  - Jewel Teal: `#1A8285` (creative / inspiration energy)
+  - Terracotta Orange: `#C94A10` (active / launching energy)
+  - Forest Olive: `#7B8743` (reflective / auditing energy)
+
+## Typography
+- **Headings (Editorial / Serif)**: Baur Bodoni / EB Garamond
+- **Accent (Geometric / Sans-Serif)**: Raleway
+- **Body / Content (Readable / Sans-Serif)**: Lato / Inter
