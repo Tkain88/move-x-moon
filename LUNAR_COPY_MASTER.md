@@ -27,7 +27,7 @@ What big business dream switches you on, turns you up and makes you uncomfortabl
 - Premature public broadcasting before the inner container has actually formed.
 - Asking for unvetted opinions from people who can barely manage their own Tuesday.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Draft the raw, unfiltered vision document for your next offer, launch, or creative turn.
 - [ ] Audit a past project and intentionally release any half-hearted commitments that you already know are going nowhere.
 - [ ] Map the first three tasks you need to complete to give real form to this new seed.
@@ -65,7 +65,7 @@ Which single dot can you connect today to tell your market and community that yo
 - Over-engineering a 12-step automation before you've spoken to 3 live human beings.
 - Waiting for 100% certainty before sharing your brilliant perspective.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Send 3 personalized voice messages or emails to past collaborators or warm leads.
 - [ ] Sketch out the curriculum, scope of work, or service outline.
 - [ ] Set up your calendar booking flow and payment links so people can pay you.
@@ -103,7 +103,7 @@ Where is hesitation costing you revenue or peace of mind, and what clean decisio
 - Discounting your pricing or compromising your terms out of temporary scarcity.
 - Procrastinating on uncomfortable administration or contractual decisions.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Review active proposals and establish clear deadlines.
 - [ ] Say no to non-essential meeting invites that clutter your prime creative hours.
 - [ ] Fix or delegate that one niggling glitch you've been grumbling about for weeks.
@@ -141,7 +141,7 @@ Is your business flowing clear and wide enough so you can receive the clients an
 - Starting completely new product lines or restructuring core systems mid-stride.
 - Letting minor cosmetic perfectionism delay your public delivery.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Conduct a full test transaction on your checkout and onboarding sequence on your own phone.
 - [ ] Publish key value-driven teasers or case studies that prove the concept.
 - [ ] Brief your team or collaborators on launch day responsibilities so everyone is in flow.
@@ -179,7 +179,7 @@ What full-bodied win are you ready to celebrate, and what bold invitation are yo
 - Operating from depletion or panic during live launch windows.
 - Hiding behind back office administration when your visibility, voice, and charisma are needed.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Open the cart or deliver your signature workshop with unshakeable conviction.
 - [ ] Send personalized thank-you notes to top clients, partners, and referrers.
 - [ ] Document immediate financial and measurable results from this cycle.
@@ -217,7 +217,7 @@ What hard-won insight from this cycle can you turn into a signature framework th
 - Pushing cold hard-sell promotions when your audience is craving your insights and mastery.
 - Letting client breakthroughs and transformations go undocumented.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Interview or survey recent clients to extract punchy quotes, measurable results, and testimonials.
 - [ ] Draft an insightful long-form breakdown sharing the lessons of your latest project.
 - [ ] Archive all launch materials and assets into your permanent business library.
@@ -255,7 +255,7 @@ What tolerated drain on your time, wallet, or sanity are you lovingly cutting of
 - Holding onto unproductive obligations out of people-pleasing or guilt.
 - Starting fresh commitments before you've cleared the messy old slate.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Audit your bank statements and cancel recurring software you haven't used in 60 days.
 - [ ] Politely decline or offboard misaligned commitments or draining clients.
 - [ ] Clean and archive your desktop, downloads folder, and active email inbox.
@@ -293,7 +293,7 @@ How deliciously spacious can you make your calendar today so your nervous system
 - Panicking over temporary lulls in daily activity or pipeline quietness.
 - Forcing epiphanies when your biological system is begging for rest.
 
-### What to Execute: Priorities
+### What to Do: Priorities
 - [ ] Block out guilt-free calendar buffer days with zero external client meetings.
 - [ ] Engage in somatic restoration: long walks in nature, bodywork, or extra sleep replenishment.
 - [ ] Review high-level financials and quietly celebrate the total revenue generated.

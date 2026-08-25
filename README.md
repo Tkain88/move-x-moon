@@ -22,7 +22,7 @@ A deterministic, high-luxury web application delivering grounded celestial intel
 - **Strategic Blueprint**: Dynamic daily recommendations including:
   - *Strategic Theme & Business Meaning*
   - *How to Plan (Focus Areas & What to Lovingly Step Away From)*
-  - *What to Execute (Action Checklist & Tuesday Afternoon Mission)*
+  - *What to Do (Action Checklist & Tuesday Afternoon Mission)*
   - *Somatic Anchor & Strategic Transmission*
 - **Refined Editorial Aesthetic**: Designed with Oswald headlines, Lora body typography, warm canvas backgrounds, dark charcoal ink (`#2C2C2C`), burnt orange top borders, and celestial teal container accents.
 - **Zero Emojis**: Strictly adheres to the Soul Coding luxury editorial voice invariant.
