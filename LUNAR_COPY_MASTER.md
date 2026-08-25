@@ -35,8 +35,8 @@ What big business dream switches you on, turns you up and makes you uncomfortabl
 ### Tuesday Afternoon Mission
 Open a blank page and write down the single most high-leverage offer you want to bring into the world. Don't edit, avoid shrinking... write without filters.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: See a light being switched on at the base of your spine and the soles of your feet at the same time. Feel how this activates your connection to the earth beneath you. Pause and appreciate the connection.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: See a light being switched on at the base of your spine and the soles of your feet at the same time. Feel how this activates your connection to the earth beneath you. Pause and appreciate the connection.
 - **Core Transmission**: When we speak the language of new beginnings, we speak the language of the unknown. Dream big enough so you can root deeply into the core of your earth.
 - **Wisdom Excerpt**: Notice the continuous communication between your feet and the earth beneath you. Your conscious awareness of the life beneath you demands a reflection from the earth's intelligence. This gives an opening for you as an individual physical entity to be schooled by the infinite physical entity.
 
@@ -73,8 +73,8 @@ Which single dot can you connect today to tell your market and community that yo
 ### Tuesday Afternoon Mission
 Record a 90-second voice note to a dream collaborator introducing a brilliant concept with zero pressure and 100% warmth.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Skeletal alignment: Bring your attention to your spine, pelvis, and rib cage, see them lighting up and feel how they are fully supported by the ground beneath you.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Skeletal alignment: Bring your attention to your spine, pelvis, and rib cage, see them lighting up and feel how they are fully supported by the ground beneath you.
 - **Core Transmission**: As soon as you take action that feels activated you begin connecting dots in the field around you. As you do this consistently you increase your access and your capacity.
 - **Wisdom Excerpt**: When the moon is waxing, we can only see a sliver of silver; the rest is slowly coming out of the dark. In reflection, you're opening up to reveal more and more of your own capacity through the small expressions and moments of presence that eventually become a tidal wave over time.
 
@@ -111,8 +111,8 @@ Where is hesitation costing you revenue or peace of mind, and what clean decisio
 ### Tuesday Afternoon Mission
 Make the pending decision you've been circling all week, send the email, and don't look back.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Become aware of your in breath as you expand your rib cage and lengthen your spine; feel the grounded command of your skeletal frame.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Become aware of your in breath as you expand your rib cage and lengthen your spine; feel the grounded command of your skeletal frame.
 - **Core Transmission**: Take this expanded and lengthened frame and allow yourself to feel empowered by it. Become aware of the integrity that hums and vibrates at the centre of it.
 - **Wisdom Excerpt**: Allow everything that is giving you structure, everything that is giving you form, everything holding you together to be filled with your light. Let this light amplify your security and your trust in the life that flows through you and animates you.
 
@@ -149,8 +149,8 @@ Is your business flowing clear and wide enough so you can receive the clients an
 ### Tuesday Afternoon Mission
 Go through your own client onboarding flow on your mobile right now. If anything feels clunky, smooth it out immediately.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Breathe deeply from your diaphragm, so your abdominals move out as you breathe in, filling your lungs to capacity, and your abs move in as you breathe out, emptying the lungs completely. Give yourself a moment to see how many pathways on the earth are lit up and activated for you.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Breathe deeply from your diaphragm, so your abdominals move out as you breathe in, filling your lungs to capacity, and your abs move in as you breathe out, emptying the lungs completely. Give yourself a moment to see how many pathways on the earth are lit up and activated for you.
 - **Core Transmission**: You are the center of your universe, as you become conscious of this, you become conscious of the pathways that are open to you. In your business this creates natural streams for money and resources to flow.
 - **Wisdom Excerpt**: Witness that on this entire globe, your pathways are activated. Open up to grow and expand your perspective on what you have the capacity to receive.
 
@@ -187,8 +187,8 @@ What full-bodied win are you ready to celebrate, and what bold invitation are yo
 ### Tuesday Afternoon Mission
 Send an unprompted note of appreciation to three people who contributed to your growth this month, then celebrate yourself with something that feels delicious.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Take a moment to connect to your heart center and see it radiating golden light through your bodily waters, bloodlines, and energy fields.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Take a moment to connect to your heart center and see it radiating golden light through your bodily waters, bloodlines, and energy fields.
 - **Core Transmission**: Your heart cannot lie; it vibrates and communicates blueprints into the field of energy all around you. Say a heartfelt yes to what's been received.
 - **Wisdom Excerpt**: The full moon brings an actual sense of fullness and fulfillment. Let the pulsing vibration of your heart open up to a deep-seated sense of appreciation.
 
@@ -225,8 +225,8 @@ What hard-won insight from this cycle can you turn into a signature framework th
 ### Tuesday Afternoon Mission
 Write down the 3 biggest breakthroughs your clients experienced this month and turn them into a repeatable model.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Solar plexus alignment: Take a moment to connect with your Solar Plexus. Standing tall as a Queen / King, really feel yourself as an individuated thumbprint of source.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Solar plexus alignment: Take a moment to connect with your Solar Plexus. Standing tall as a Queen / King, really feel yourself as an individuated thumbprint of source.
 - **Core Transmission**: Honor the lineage of the things that came before and allow the culmination of your lived truth to shape the way you command and lead yourself.
 - **Wisdom Excerpt**: Bring your unique flavor of source into your energetic field and witness how it shifts from an individuated creation into an infinite creation. You are the center of the divinely expressed universe as it occurs through you and as you.
 
@@ -263,8 +263,8 @@ What tolerated drain on your time, wallet, or sanity are you lovingly cutting of
 ### Tuesday Afternoon Mission
 Cancel 2 recurring subscriptions you haven't used in two months and archive open browser tabs that you were done with ages ago.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Navel point cord clearing: Bring your attention to your navel point (belly button), this is your point of power. Make a point of releasing any active contractions that limit your expression and keep you small.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Navel point cord clearing: Bring your attention to your navel point (belly button), this is your point of power. Make a point of releasing any active contractions that limit your expression and keep you small.
 - **Core Transmission**: Say no to being minimized. When you say no to what no longer serves you, you say a deeper, sovereign yes to life.
 - **Wisdom Excerpt**: This is a space where we get to clean and cleanse. Release the spaces where you hold onto past hurts. Allow the letting go process to happen with the utmost grace and ease.
 
@@ -301,8 +301,8 @@ How deliciously spacious can you make your calendar today so your nervous system
 ### Tuesday Afternoon Mission
 Designate tomorrow morning as an unscheduled focus block for rest, long walks, or pure strategic daydreaming.
 
-### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Whole-body relaxation: Releasing muscular holding patterns into the supportive ground.
+### Somatic Root & Strategic Moves
+- **Somatic Root**: Whole-body relaxation: Releasing muscular holding patterns into the supportive ground.
 - **Core Transmission**: Rest is not a reward for work completed; it's the fertile ground from which all future empire springs.
 - **Wisdom Excerpt**: When the moon is waning down to dark, we are entering the temple of restoration. Emptying the vessel so the next divine frequency can enter without friction.
 
