@@ -20,11 +20,11 @@
   --bg-card-elevated: #F9F6F0;
   --bg-card-tint: #F3ECE0;
   
-  /* Text & Inks (Dark Charcoal Grey Palette) */
-  --ink-primary: #2C2C2C;
-  --ink-secondary: #4A4A48;
-  --ink-muted: #75716B;
-  --ink-faint: #9E978C;
+  /* Text & Inks (Jet Black Palette) */
+  --ink-primary: #000000;
+  --ink-secondary: #000000;
+  --ink-muted: #111111;
+  --ink-faint: #333333;
   
   /* Vibrant Accent Pops */
   --accent-teal: #1A8285;
@@ -973,7 +973,7 @@ body {
   font-style: italic;
   font-weight: 500;
   font-size: 1.05rem;
-  color: var(--ink-muted);
+  color: var(--ink-primary);
   line-height: 1.35;
 }
 
@@ -1155,7 +1155,7 @@ body {
   font-style: italic;
   font-weight: 500;
   font-size: 1.15rem;
-  color: var(--ink-muted);
+  color: var(--ink-primary);
   line-height: 1.35;
 }
 
