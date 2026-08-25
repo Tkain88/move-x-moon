@@ -8,37 +8,37 @@
 *Rhythm: New Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Seeding Big, Bold, Beautiful Visions
-- **Frequency Subtitle**: Dark Void Receptivity & Delicious Audacity
-- **Energy Focus Pill**: Internal incubation, spacious reflection, low external broadcasting
+- **Theme Title**: Planting The Seeds For Big, Bold, Beautiful Visions
+- **Frequency Subtitle**: The Emptiness To Receive & The Delicious Gumption To Ask
+- **Energy Focus Pill**: Incubation, spacious reflection, quiet broadcasting
 
 ### Business Meaning (Narrative)
-This is where the soul schools the human, darling. Close the spreadsheets for an hour and dare to imagine an offer so delightfully stretchy it gives you butterflies. We aren't doing vague lottery-ticket daydreaming here; we're planting roots deep into the physical earth so your vision has actual scaffolding to stand on.
+This is where the soul schools the human, darling. Put the strategy to one side for a moment and dare to imagine an offer so delightfully stretchy it gives you butterflies. We aren't doing vague lottery-ticket daydreaming here; we're planting roots deep into the physical earth so your vision has actual living ground to stand on.
 
 ### Question For You My Love... (Strategic Inquiry)
-What audacious business dream feels delightfully uncomfortable for you right now, and how are you anchoring it into the real world today?
+What big business dream switches you on, turns you up and makes you uncomfortable all at the same time? How are you anchoring it into your real world and experience today?
 
 ### How to Plan: Focus Areas
-- Dreaming up the grand, delicious architecture for your upcoming business cycle
-- Protecting your quiet incubation bubble before broadcasting anything to the crowd
-- Aligning your intuitive third-eye clarity with a full-body somatic YES
+- Dream up the grand design of your upcoming business cycle
+- Protect your quiet incubation bubble before broadcasting anything
+- Align your intuitive third-eye clarity with your full-body juicy YES
 
 ### How to Plan: What to Lovingly Step Away From
-- Premature public broadcasting before the internal container has actually formed.
+- Premature public broadcasting before the inner container has actually formed.
 - Asking for unvetted opinions from people who can barely manage their own Tuesday.
 
 ### What to Execute: Priorities
-- [ ] Draft the raw, unfiltered vision document for your next offer, launch, or creative pivot.
-- [ ] Audit past project baggage and intentionally release any half-hearted commitments.
-- [ ] Map the first three physical milestones needed to give real form to this new seed.
+- [ ] Draft the raw, unfiltered vision document for your next offer, launch, or creative turn.
+- [ ] Audit a past project and intentionally release any half-hearted commitments that you already know are going nowhere.
+- [ ] Map the first three tasks you need to complete to give real form to this new seed.
 
 ### Tuesday Afternoon Mission
-Open a blank page and write down the single most audacious, high-leverage offer you want to bring into the world—no editing, no shrinking.
+Open a blank page and write down the single most high-leverage offer you want to bring into the world. Don't edit, avoid shrinking... write without filters.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Switch the light on at the base of your spine and the soles of your feet. Feel the earth come right up to meet you from an activated state.
-- **Core Transmission**: When we speak the language of new beginnings, we speak the language of the unknown. Dream big dreams that root deep into the core of your earth.
-- **Wisdom Excerpt**: Notice how your feet are meeting the earth beneath you from that lit state. Your activation is demanding a reflection from the earth that is also activated. We are opening up for ourselves as a physical entity to be schooled by ourselves as an infinite entity.
+- **Somatic Anchor**: See a light being switched on at the base of your spine and the soles of your feet at the same time. Feel how this activates your connection to the earth beneath you. Pause and appreciate the connection.
+- **Core Transmission**: When we speak the language of new beginnings, we speak the language of the unknown. Dream big enough so you can root deeply into the core of your earth.
+- **Wisdom Excerpt**: Notice the continuous communication between your feet and the earth beneath you. Your conscious awareness of the life beneath you demands a reflection from the earth's intelligence. This gives an opening for you as an individual physical entity to be schooled by the infinite physical entity.
 
 ---
 
@@ -47,19 +47,19 @@ Open a blank page and write down the single most audacious, high-leverage offer 
 
 ### Strategic Theme & Frequency
 - **Theme Title**: Connecting the Dots & Making Contact
-- **Frequency Subtitle**: Micro-Commitments & Stepping onto the Earth Grid
-- **Energy Focus Pill**: Curious, responsive, outward-stepping momentum
+- **Frequency Subtitle**: Micro-Commitments & First Steps
+- **Energy Focus Pill**: Curious, responsive, outward momentum
 
 ### Business Meaning (Narrative)
-Just because only a sliver of the moon is showing doesn't mean the rest went on holiday. In your business, this phase is all about making contact with the grid. Aligned momentum doesn't require fireworks; sending three warm voice notes or publishing that raw initial thinking activates real current in the field.
+Just because only a sliver of the moon is showing doesn't mean the rest went on holiday. In your business, this phase is all about making contact with the path ahead. Aligned momentum doesn't require a big song and dance; send three warm voice notes or publish that raw initial thought process; this activates a real current in the field that starts a ripple outward.
 
 ### Question For You My Love... (Strategic Inquiry)
-Which single dot can you connect today that tells the market you are switched on, magnetic, and open for business?
+Which single dot can you connect today to tell your market and community that you're switched on, magnetic, and open for business?
 
 ### How to Plan: Focus Areas
-- Establishing low-friction connection points with potential clients, allies, and dream collaborators
-- Testing early offer concepts through direct, human-to-human conversations
-- Building the simple daily rhythm that keeps your operations humming without burnout
+- Establish low-friction connection points with potential clients, allies, and dream collaborators (start by saying hi!)
+- Test early offer concepts through direct, face-to-face conversations
+- Build the simple daily rhythm that keeps your operations humming without burnout
 
 ### How to Plan: What to Lovingly Step Away From
 - Over-engineering a 12-step automation before you've spoken to 3 live human beings.
@@ -67,16 +67,16 @@ Which single dot can you connect today that tells the market you are switched on
 
 ### What to Execute: Priorities
 - [ ] Send 3 personalized voice messages or emails to past collaborators or warm leads.
-- [ ] Sketch out the pilot curriculum, scope of work, or service deliverable outline.
-- [ ] Set up the calendar booking conduits and payment links so people can actually pay you.
+- [ ] Sketch out the curriculum, scope of work, or service outline.
+- [ ] Set up your calendar booking flow and payment links so people can pay you.
 
 ### Tuesday Afternoon Mission
 Record a 90-second voice note to a dream collaborator introducing a brilliant concept with zero pressure and 100% warmth.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Skeletal structure alignment: Feel your spine, pelvis, and rib cage lit up, wide, and fully supported by the ground.
-- **Core Transmission**: Aligned action acts as an activation for connecting the dots. Consistency in connecting dots reveals your full capacity.
-- **Wisdom Excerpt**: When the moon is waxing, just because we can only see a sliver doesn't mean the rest isn't there. We are opening up to reveal more and more of our capacity by expressing in the world and allowing the dots to be connected.
+- **Somatic Anchor**: Skeletal alignment: Bring your attention to your spine, pelvis, and rib cage, see them lighting up and feel how they are fully supported by the ground beneath you.
+- **Core Transmission**: As soon as you take action that feels activated you begin connecting dots in the field around you. As you do this consistently you increase your access and your capacity.
+- **Wisdom Excerpt**: When the moon is waxing, we can only see a sliver of silver; the rest is slowly coming out of the dark. In reflection, you're opening up to reveal more and more of your own capacity through the small expressions and moments of presence that eventually become a tidal wave over time.
 
 ---
 
@@ -84,37 +84,37 @@ Record a 90-second voice note to a dream collaborator introducing a brilliant co
 *Rhythm: Waxing Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Structural Integrity & Decisive Action
-- **Frequency Subtitle**: Fortifying Boundaries, Cutting Indecision & Decisive Will
-- **Energy Focus Pill**: Assertive, focused, highly disciplined execution
+- **Theme Title**: Integrity & Decisive Action
+- **Frequency Subtitle**: Strengthening Boundaries, Cutting Fence Sitting & Strongly Saying 'I Will...'
+- **Energy Focus Pill**: Assertive, focused, highly disciplined
 
 ### Business Meaning (Narrative)
-The halfway mark to full illumination always brings a little friction test. Doubts love to creep in right here to check whether your structure actually has integrity. Stand tall in your spine, eliminate decision fatigue, stop tolerating messy boundaries, and make the executive call you've been putting off.
+The halfway mark to full illumination always brings a little friction test. Doubts love to creep in right here to check whether your structure actually has integrity. Stand tall in your spine, eliminate decision fatigue, stop tolerating messy boundaries, and make the firm executive call you've been putting off.
 
 ### Question For You My Love... (Strategic Inquiry)
 Where is hesitation costing you revenue or peace of mind, and what clean decision clears the air immediately?
 
 ### How to Plan: Focus Areas
-- Removing bottlenecks in your client onboarding and operational delivery
-- Locking in firm pricing, ironclad contracts, and explicit payment deadlines
-- Making swift, decisive executive calls on lingering ambiguities
+- Remove bottlenecks in your client onboarding and your delivery system
+- Lock in firm pricing, ironclad contracts, and crystal clear payment deadlines
+- Make swift, decisive calls on lingering wishy-washy commitments
 
 ### How to Plan: What to Lovingly Step Away From
-- Discounting your pricing or compromising core terms out of temporary scarcity.
-- Procrastinating on uncomfortable administrative or contractual decisions.
+- Discounting your pricing or compromising your terms out of temporary scarcity.
+- Procrastinating on uncomfortable administration or contractual decisions.
 
 ### What to Execute: Priorities
-- [ ] Review active proposals and establish explicit, polite acceptance deadlines.
-- [ ] Say no to non-essential meeting invites that clutter your prime creative morning hours.
-- [ ] Fix or delegate that one technical glitch you have been grumbling about for weeks.
+- [ ] Review active proposals and establish clear deadlines.
+- [ ] Say no to non-essential meeting invites that clutter your prime creative hours.
+- [ ] Fix or delegate that one niggling glitch you've been grumbling about for weeks.
 
 ### Tuesday Afternoon Mission
-Make the one pending executive decision you've been circling all week, send the email, and don't look back.
+Make the pending decision you've been circling all week, send the email, and don't look back.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Expanded rib cage and spine integrity; feeling the grounded, sovereign authority of your skeletal frame.
-- **Core Transmission**: We take this structured framework and allow it to be empowered, strengthened, and for the integrity at the center of it to be established.
-- **Wisdom Excerpt**: Everything that is giving you structure, everything that is giving you form, everything holding you together is being filled with your light. From this place comes trust, security, and empowered expansion.
+- **Somatic Anchor**: Become aware of your in breath as you expand your rib cage and lengthen your spine; feel the grounded command of your skeletal frame.
+- **Core Transmission**: Take this expanded and lengthened frame and allow yourself to feel empowered by it. Become aware of the integrity that hums and vibrates at the centre of it.
+- **Wisdom Excerpt**: Allow everything that is giving you structure, everything that is giving you form, everything holding you together to be filled with your light. Let this light amplify your security and your trust in the life that flows through you and animates you.
 
 ---
 
@@ -122,37 +122,37 @@ Make the one pending executive decision you've been circling all week, send the 
 *Rhythm: Waxing Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Capacity Expansion & Pre-Launch Polish
-- **Frequency Subtitle**: Momentum, Conduit Testing & High Velocity
-- **Energy Focus Pill**: High projective energy, meticulous polish, high output
+- **Theme Title**: Expanded Capacity & Pre-Launch Touches
+- **Frequency Subtitle**: Momentum, Flow Testing & Faster Movements
+- **Energy Focus Pill**: Projective energy, meticulous attention to detail, high output
 
 ### Business Meaning (Narrative)
-The moon is nearly full and the momentum is building, my love. Your systems, messaging, and capacity are about to handle peak volume. Please don't invent five new side projects right now; double down on stress-testing your existing conduits and getting ready to receive.
+The moon is nearly full and the momentum is building, my love. Your systems, messaging, and capacity are about to handle peak volume. Please don't invent five new side projects right now; double down on stress-testing your existing flows and getting ready to receive.
 
 ### Question For You My Love... (Strategic Inquiry)
 Is your business flowing clear and wide enough so you can receive the clients and money you're calling in?
 
 ### How to Plan: Focus Areas
-- Stress-testing fulfillment capacity and auditing the end-to-end customer journey
-- Warming up audience awareness and building delicious anticipation for your launch
-- Finalizing promotional copy, presentation decks, and technical checkout flows
+- Stress-testing your ability to deliver and auditing the end-to-end customer journey
+- Warming up your audience awareness and building delicious anticipation for your launch
+- Finalising your promotions, presentations, and checkout flows
 
 ### How to Plan: What to Lovingly Step Away From
 - Starting completely new product lines or restructuring core systems mid-stride.
 - Letting minor cosmetic perfectionism delay your public delivery.
 
 ### What to Execute: Priorities
-- [ ] Conduct a full test transaction on your checkout and onboarding sequence on your phone.
-- [ ] Publish key value-driven teasers or case studies that demonstrate proof of concept.
-- [ ] Brief team members or collaborators on launch day responsibilities so everyone is in flow.
+- [ ] Conduct a full test transaction on your checkout and onboarding sequence on your own phone.
+- [ ] Publish key value-driven teasers or case studies that prove the concept.
+- [ ] Brief your team or collaborators on launch day responsibilities so everyone is in flow.
 
 ### Tuesday Afternoon Mission
-Go through your own client onboarding flow on mobile right now. If anything feels clunky, smooth it out immediately.
+Go through your own client onboarding flow on your mobile right now. If anything feels clunky, smooth it out immediately.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Diaphragmatic breathing filling the lungs, witnessing the worldwide grid illuminated.
-- **Core Transmission**: You are the center of your universe, lighting up your grid. Open streams naturally for money and resources to flow.
-- **Wisdom Excerpt**: Witnessing that on an entire globe, your grid is activated. Opening up to grow and expand the perspective of what you have the capacity to receive.
+- **Somatic Anchor**: Breathe deeply from your diaphragm, so your abdominals move out as you breathe in, filling your lungs to capacity, and your abs move in as you breathe out, emptying the lungs completely. Give yourself a moment to see how many pathways on the earth are lit up and activated for you.
+- **Core Transmission**: You are the center of your universe, as you become conscious of this, you become conscious of the pathways that are open to you. In your business this creates natural streams for money and resources to flow.
+- **Wisdom Excerpt**: Witness that on this entire globe, your pathways are activated. Open up to grow and expand your perspective on what you have the capacity to receive.
 
 ---
 
@@ -161,36 +161,36 @@ Go through your own client onboarding flow on mobile right now. If anything feel
 
 ### Strategic Theme & Frequency
 - **Theme Title**: Maximum Illumination & The Big Harvest
-- **Frequency Subtitle**: Radiant Visibility, Celebration & Unreserved Yes
+- **Frequency Subtitle**: Radiant Visibility, Celebration & Full-Blown Yes
 - **Energy Focus Pill**: Radiant, expressive, celebratory, magnetic
 
 ### Business Meaning (Narrative)
-The spotlight is fully on you, my love. Everything is visible. This is prime time for public launches, celebrating major wins, and closing sales cycles. The heart is the ultimate reality-creator through gratitude and clarity. Give genuine thanks for what has landed and make your invitation without apology.
+The spotlight is fully on you, my love. Everything is visible. This is prime time for public launches, celebrating major wins, and closing sales cycles. Your heart creates the very best experiences and circumstances life has to offer through your gratitude and clarity. Give genuine thanks for what has landed and make your invitations without apology.
 
 ### Question For You My Love... (Strategic Inquiry)
-What full-bodied win is ready for your celebration, and what bold invitation are you making today without a single apology?
+What full-bodied win are you ready to celebrate, and what bold invitation are you making today without a single apology?
 
 ### How to Plan: Focus Areas
-- Delivering public launch events, workshops, webinars, or signature keynotes with full presence
-- Harvest review: measuring revenue, client intake, and transformative community impact
-- Celebrating team performance and expressing deep appreciation to your supporters
+- Deliver public launch events, workshops, webinars, or signature keynotes with full presence
+- Review Your Harvest: measure revenue, client intake, and transformative community impact
+- Celebrate your performance and express deep appreciation to your supporters
 
 ### How to Plan: What to Lovingly Step Away From
 - Operating from depletion or panic during live launch windows.
-- Hiding behind administrative busywork when your visibility, voice, and charisma are needed.
+- Hiding behind back office administration when your visibility, voice, and charisma are needed.
 
 ### What to Execute: Priorities
 - [ ] Open the cart or deliver your signature workshop with unshakeable conviction.
 - [ ] Send personalized thank-you notes to top clients, partners, and referrers.
-- [ ] Document immediate financial and qualitative results from this cycle.
+- [ ] Document immediate financial and measurable results from this cycle.
 
 ### Tuesday Afternoon Mission
-Send an unprompted note of appreciation to three people who contributed to your growth this month, then celebrate yourself with something delicious.
+Send an unprompted note of appreciation to three people who contributed to your growth this month, then celebrate yourself with something that feels delicious.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Heart center radiating golden light through all bodily waters, bloodlines, and energy fields.
-- **Core Transmission**: The heart cannot lie; it vibrates blueprints into the subtle field. Say yes to what has been received.
-- **Wisdom Excerpt**: The full moon is really that sense of the fullness of fulfillment. The heart is the musical organ creating blueprints through vibration. Let the vibration of the heart open up to deep-seated gratitude.
+- **Somatic Anchor**: Take a moment to connect to your heart center and see it radiating golden light through your bodily waters, bloodlines, and energy fields.
+- **Core Transmission**: Your heart cannot lie; it vibrates and communicates blueprints into the field of energy all around you. Say a heartfelt yes to what's been received.
+- **Wisdom Excerpt**: The full moon brings an actual sense of fullness and fulfillment. Let the pulsing vibration of your heart open up to a deep-seated sense of appreciation.
 
 ---
 
@@ -198,37 +198,37 @@ Send an unprompted note of appreciation to three people who contributed to your 
 *Rhythm: Waning Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Wisdom Synthesis & Proprietary IP
+- **Theme Title**: Wisdom Synthesis & Intellectual Property (IP)
 - **Frequency Subtitle**: Distilling Lessons, Signature Frameworks & Thought Leadership
-- **Energy Focus Pill**: Generous, didactic, grounded authority
+- **Energy Focus Pill**: Generous, wisdom sharing with grounded authority
 
 ### Business Meaning (Narrative)
-The peak launch intensity settles into rich, pure gold. Take everything that just happened—the triumphs, the surprises, the client breakthroughs—and distill it into repeatable frameworks, case studies, and thought leadership. Your lived experience is your most expensive asset.
+The peak launch intensity settles into rich, pure gold. Take everything that just happened—the triumphs, the surprises, the client breakthroughs—and distill it into repeatable frameworks, case studies, and thought leadership. Your lived experience is your most valuable asset.
 
 ### Question For You My Love... (Strategic Inquiry)
 What hard-won insight from this cycle can you turn into a signature framework that positions you as the obvious authority?
 
 ### How to Plan: Focus Areas
-- Synthesizing launch data and client feedback into structured, high-value case studies
-- Creating foundational thought leadership content and signature frameworks
-- Documenting SOPs and training materials for long-term scalability and ease
+- Collate your launch information and client feedback into structured, high-value case studies
+- Create grounded transformative content and signature frameworks
+- Document your systems and training materials so they can be scaled in the long term with ease
 
 ### How to Plan: What to Lovingly Step Away From
 - Pushing cold hard-sell promotions when your audience is craving your insights and mastery.
 - Letting client breakthroughs and transformations go undocumented.
 
 ### What to Execute: Priorities
-- [ ] Interview or survey recent clients to extract punchy quotes, metrics, and testimonials.
+- [ ] Interview or survey recent clients to extract punchy quotes, measurable results, and testimonials.
 - [ ] Draft an insightful long-form breakdown sharing the lessons of your latest project.
-- [ ] Archive all launch collateral and assets into your permanent business library.
+- [ ] Archive all launch materials and assets into your permanent business library.
 
 ### Tuesday Afternoon Mission
-Write down the 3 biggest breakthroughs your clients experienced this month and formulate them into a repeatable model.
+Write down the 3 biggest breakthroughs your clients experienced this month and turn them into a repeatable model.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Solar plexus alignment: Standing tall as a sovereign, individuated thumbprint of source.
-- **Core Transmission**: We honor the lineage and synthesize the lived truth into sovereign authority.
-- **Wisdom Excerpt**: Bringing your unique flavor of source into your auric field and seeing this creation move into the cosmos. You are the center of the divinely expressed universe as it occurs through you.
+- **Somatic Anchor**: Solar plexus alignment: Take a moment to connect with your Solar Plexus. Standing tall as a Queen / King, really feel yourself as an individuated thumbprint of source.
+- **Core Transmission**: Honor the lineage of the things that came before and allow the culmination of your lived truth to shape the way you command and lead yourself.
+- **Wisdom Excerpt**: Bring your unique flavor of source into your energetic field and witness how it shifts from an individuated creation into an infinite creation. You are the center of the divinely expressed universe as it occurs through you and as you.
 
 ---
 
@@ -237,8 +237,8 @@ Write down the 3 biggest breakthroughs your clients experienced this month and f
 
 ### Strategic Theme & Frequency
 - **Theme Title**: The Sacred 'No' & Strategic Purge
-- **Frequency Subtitle**: Cord Cutting, Pruning Inefficiencies & Sovereign Boundaries
-- **Energy Focus Pill**: Discerning, surgical, liberating, unyielding
+- **Frequency Subtitle**: Cord Cutting, Pruning Inefficiencies & Setting Your Boundaries
+- **Energy Focus Pill**: Discerning, releasing, liberating, holding your ground
 
 ### Business Meaning (Narrative)
 Time for a surgical spring cleaning. You cannot step into your next empire while dragging expired commitments, fussy low-margin clients, or bloated software stacks. Saying a sharp, loving 'no' to what drains you is the only way to say a thunderous 'yes' to your next level.
@@ -247,26 +247,26 @@ Time for a surgical spring cleaning. You cannot step into your next empire while
 What tolerated drain on your time, wallet, or sanity are you lovingly cutting off today?
 
 ### How to Plan: Focus Areas
-- Financial audits: canceling zombie subscriptions and unnecessary operational bloat
-- Pruning sluggish offers, unengaged subscribers, and cluttered digital file systems
-- Renegotiating or ending misaligned client contracts with absolute clarity and grace
+- Financial audits: cancel zombie subscriptions and unnecessary operational bloat
+- Prune sluggish offers, unengaged subscribers, and cluttered digital file systems
+- Renegotiate or end misaligned client contracts with absolute clarity and grace
 
 ### How to Plan: What to Lovingly Step Away From
 - Holding onto unproductive obligations out of people-pleasing or guilt.
-- Starting fresh commitments before you've cleared the old slate.
+- Starting fresh commitments before you've cleared the messy old slate.
 
 ### What to Execute: Priorities
 - [ ] Audit your bank statements and cancel recurring software you haven't used in 60 days.
-- [ ] Politely decline or offboard misaligned advisory commitments or draining clients.
+- [ ] Politely decline or offboard misaligned commitments or draining clients.
 - [ ] Clean and archive your desktop, downloads folder, and active email inbox.
 
 ### Tuesday Afternoon Mission
-Cancel 2 recurring subscriptions you haven't used in two months and archive 20 open browser tabs.
+Cancel 2 recurring subscriptions you haven't used in two months and archive open browser tabs that you were done with ages ago.
 
 ### Somatic Anchor & Strategic Transmission
-- **Somatic Anchor**: Navel point cord clearing: Transmuting contractions and reclaiming sovereign power.
-- **Core Transmission**: Say no to being minimized. Say no so you can say a deeper, sovereign yes to life.
-- **Wisdom Excerpt**: This is a space where we get to clean and cleanse. Saying no to all the spaces where you hold onto past hurts or contractions. We allow for the letting go process to happen with grace and ease.
+- **Somatic Anchor**: Navel point cord clearing: Bring your attention to your navel point (belly button), this is your point of power. Make a point of releasing any active contractions that limit your expression and keep you small.
+- **Core Transmission**: Say no to being minimized. When you say no to what no longer serves you, you say a deeper, sovereign yes to life.
+- **Wisdom Excerpt**: This is a space where we get to clean and cleanse. Release the spaces where you hold onto past hurts. Allow the letting go process to happen with the utmost grace and ease.
 
 ---
 
@@ -274,7 +274,7 @@ Cancel 2 recurring subscriptions you haven't used in two months and archive 20 o
 *Rhythm: Waning Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Emptying the Vessel & Delicious Rest
+- **Theme Title**: Emptying the Vessel & Lush Restfulness
 - **Frequency Subtitle**: Deep Biological Replenishment & Sacred Spaciousness
 - **Energy Focus Pill**: Restorative, quiet, inward-looking, gentle
 
@@ -286,12 +286,12 @@ How deliciously spacious can you make your calendar today so your nervous system
 
 ### How to Plan: Focus Areas
 - Deep physical and nervous system restoration without a drop of guilt
-- Spacious executive contemplation without the pressure to produce immediately
+- Spacious contemplation without the pressure to produce immediately
 - Reviewing cash reserves, lifestyle design, and overall business health
 
 ### How to Plan: What to Lovingly Step Away From
 - Panicking over temporary lulls in daily activity or pipeline quietness.
-- Forcing strategic epiphanies when your biological system is begging for rest.
+- Forcing epiphanies when your biological system is begging for rest.
 
 ### What to Execute: Priorities
 - [ ] Block out guilt-free calendar buffer days with zero external client meetings.
@@ -303,5 +303,8 @@ Designate tomorrow morning as an unscheduled focus block for rest, long walks, o
 
 ### Somatic Anchor & Strategic Transmission
 - **Somatic Anchor**: Whole-body relaxation: Releasing muscular holding patterns into the supportive ground.
-- **Core Transmission**: Rest is not a reward for work completed; it is the fertile ground from which all future empire springs.
+- **Core Transmission**: Rest is not a reward for work completed; it's the fertile ground from which all future empire springs.
 - **Wisdom Excerpt**: When the moon is waning down to dark, we are entering the temple of restoration. Emptying the vessel so the next divine frequency can enter without friction.
+
+---
+
