@@ -122,7 +122,7 @@ Make the pending decision you've been circling all week, send the email, and don
 *Rhythm: Waxing Moon*
 
 ### Strategic Theme & Frequency
-- **Theme Title**: Expanded Capacity & Pre-Launch Touches
+- **Theme Title**: Opening Flows, Polish & Faster Movements
 - **Frequency Subtitle**: Momentum, Flow Testing & Faster Movements
 - **Energy Focus Pill**: Projective energy, meticulous attention to detail, high output
 

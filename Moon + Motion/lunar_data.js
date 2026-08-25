@@ -133,7 +133,7 @@ const LUNAR_KNOWLEDGE_BASE = {
     "phase_name": "Waxing Moon",
     "illumination_range": "51% - 99%",
     "color_accent": "burnt_orange",
-    "strategic_theme": "Expanded Capacity & Pre-Launch Touches",
+    "strategic_theme": "Opening Flows, Polish & Faster Movements",
     "core_frequency": "Momentum, Flow Testing & Faster Movements",
     "business_meaning": "The moon is nearly full and the momentum is building, my love. Your systems, messaging, and capacity are about to handle peak volume. Please don't invent five new side projects right now; double down on stress-testing your existing flows and getting ready to receive.",
     "planning_framework": {
