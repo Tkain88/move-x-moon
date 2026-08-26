@@ -6,12 +6,12 @@
   <title>MOON x MOTION — Lunar Business Guiding Star</title>
   <meta name="description" content="A deterministic lunar guiding star for strategic business planning, aligned execution, and sovereign decision-making.">
   
-  <!-- Typography System: Oswald (Headlines) + Lora (Subtitles in Italic 500 & Body in Regular 400) -->
+  <!-- Typography System: EB Garamond (Hero Quote) + Oswald (Headlines) + Lora (Body & Subtitles) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="styles.css?v=3.5">
+  <link rel="stylesheet" href="styles.css?v=4.0">
   
   <!-- Favicon / Meta -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%23FAF7F2' stroke='%23C5A059' stroke-width='4'/><path d='M50 5 A45 45 0 0 1 50 95 A25 45 0 0 0 50 5' fill='%23141414'/></svg>">
@@ -29,43 +29,12 @@
         </div>
       </div>
 
-      <!-- Full-Width Panoramic Hero Showcase -->
-      <div class="hero-panoramic-card">
-        <div class="hero-panoramic-scrim">
-          <div class="hero-content-col">
-            <div class="hero-title-group">
-              <h2 class="hero-headline">Lead Yourself First.<br>Let the Moon Guide Your Form.</h2>
-              <div class="hero-subtext">The stars are always referencing your feet on the ground.</div>
-            </div>
-            
-            <p class="hero-lead">
-              Use each lunar phase to seed your bold, beautiful visions, test your capacity, allow for quiet stillness and take command of your momentum.
-            </p>
-
-            <!-- Today Status Sub-block inside Hero -->
-            <div class="hero-live-status-block">
-              <div class="status-left">
-                <div class="mini-moon-container" id="bannerMiniMoon"></div>
-                <div class="status-text-stack">
-                  <div class="status-title-group">
-                    <div class="status-eyebrow">Your Active Phase Today</div>
-                    <h3 id="bannerPhaseName" class="status-phase-title">Current Moon</h3>
-                  </div>
-                  <div class="status-meta-pills">
-                    <span class="pill-badge pill-teal" id="bannerIllumBadge">Illumination</span>
-                    <span class="pill-badge pill-gold">Cosmic Cadence</span>
-                  </div>
-                </div>
-              </div>
-              <div class="status-right">
-                <div class="status-prompt-label">Question For You My Love...</div>
-                <div class="status-prompt" id="bannerPromptText">
-                  "Is your business flowing clear and wide enough so you can receive the clients and money you're calling in?"
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      <!-- Centered Grand Hero Quote (EB Garamond ~72px Italics) -->
+      <div class="grand-quote-banner">
+        <h2 class="grand-quote-text">Let The Moon Guide Your Motion</h2>
+        <p class="grand-quote-subtext">
+          Use each lunar phase to seed your bold, beautiful visions, test your capacity, allow for quiet stillness and take command of your momentum.
+        </p>
       </div>
     </header>
 
@@ -134,8 +103,13 @@
       <!-- Right Column: Daily Strategic Reading & Execution Blueprint -->
       <section class="reading-panel" aria-live="polite">
         
-        <!-- Hero Reading Card -->
+        <!-- Hero Reading Card (Moon Section + Celestial Nebula Particles) -->
         <article class="reading-hero-card">
+          <!-- Nebula Forgery Celestial Particle Engine -->
+          <div class="nebula-container" id="nebulaContainer" aria-hidden="true">
+            <div class="proto-star"></div>
+          </div>
+
           <div class="hero-meta-header">
             <div class="hero-date-group">
               <div class="reading-human-date" id="readingHumanDate">Loading Date...</div>
@@ -274,7 +248,7 @@
   </div>
 
   <!-- Application Logic Scripts -->
-  <script src="lunar_data.js?v=3.5"></script>
-  <script src="app.js?v=3.5"></script>
+  <script src="lunar_data.js?v=4.0"></script>
+  <script src="app.js?v=4.0"></script>
 </body>
 </html>

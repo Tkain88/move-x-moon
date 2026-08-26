@@ -52,6 +52,7 @@
   --shadow-lg: 0 20px 48px rgba(20, 20, 20, 0.07);
   
   /* Typography Design Tokens */
+  --font-quote: 'EB Garamond', Garamond, Georgia, serif;
   --font-headline: 'Oswald', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-subtitle: 'Lora', Georgia, serif;
   --font-body: 'Lora', Georgia, serif;
@@ -183,216 +184,45 @@ body {
 
 
 /* ==========================================================================
-   FULL-WIDTH PANORAMIC HERO SHOWCASE (SPACIOUS & SHARP)
+   CENTERED GRAND HERO QUOTE BANNER (EB GARAMOND 72PX ITALICS)
    ========================================================================== */
 
-.hero-panoramic-card {
-  position: relative;
-  background-color: var(--bg-card);
-  background-image: url('images/hero-moon-wide.png');
-  background-size: cover;
-  background-position: right 10% center;
-  background-repeat: no-repeat;
-  border: 1.5px solid var(--border-medium);
-  border-radius: 0;
-  box-shadow: var(--shadow-md);
-  min-height: 520px;
-  display: flex;
-  overflow: hidden;
-}
-
-.hero-panoramic-scrim {
-  width: 100%;
-  background: linear-gradient(
-    90deg, 
-    rgba(250, 247, 242, 0.98) 0%, 
-    rgba(250, 247, 242, 0.94) 36%, 
-    rgba(250, 247, 242, 0.35) 48%, 
-    rgba(250, 247, 242, 0) 56%, 
-    rgba(250, 247, 242, 0) 100%
-  );
-  padding: 56px 64px;
-  display: flex;
-  align-items: center;
-}
-
-@media (max-width: 960px) {
-  .hero-panoramic-card {
-    min-height: auto;
-    background-position: right center;
-  }
-  .hero-panoramic-scrim {
-    background: linear-gradient(
-      180deg, 
-      rgba(250, 247, 242, 0.98) 0%, 
-      rgba(250, 247, 242, 0.92) 58%, 
-      rgba(250, 247, 242, 0.70) 100%
-    );
-    padding: 36px 24px;
-  }
-}
-
-.hero-content-col {
-  max-width: 530px;
+.grand-quote-banner {
+  text-align: center;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  z-index: 2;
-}
-
-.hero-badge-row {
-  display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 2px;
+  justify-content: center;
+  gap: 16px;
+  padding: 32px 24px 20px;
+  margin: 0 auto;
+  max-width: 1080px;
 }
 
-.hero-pretitle {
-  font-family: var(--font-headline);
-  font-size: 0.90rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--accent-teal);
-}
-
-.hero-title-group {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  align-items: flex-start;
-  margin-bottom: 4px;
-}
-
-.hero-headline {
-  font-family: var(--font-headline);
-  font-size: 2.85rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  color: var(--ink-primary);
-  line-height: 1.1;
-}
-
-@media (max-width: 600px) {
-  .hero-headline {
-    font-size: 2.1rem;
-  }
-}
-
-.hero-subtext {
-  font-family: var(--font-subtitle);
+.grand-quote-text {
+  font-family: var(--font-quote);
   font-style: italic;
   font-weight: 500;
-  font-size: 1.35rem;
+  font-size: clamp(2.8rem, 5.8vw, 4.6rem); /* ~72px in centered luxury typography */
+  line-height: 1.12;
   color: var(--ink-primary);
-  line-height: 1.45;
+  letter-spacing: -0.015em;
+  text-align: center;
+  text-shadow: 0 2px 28px rgba(197, 160, 89, 0.12);
+  margin: 0 auto;
 }
 
-.hero-lead {
+.grand-quote-subtext {
   font-family: var(--font-body);
-  font-weight: 400;
   font-size: 1.15rem;
   color: var(--ink-secondary);
-  line-height: 1.85;
-  max-width: 600px;
+  line-height: 1.8;
+  max-width: 720px;
+  text-align: center;
+  margin: 0 auto;
 }
 
-/* Word Highlights (Zero Underlines) */
-.highlight-orange {
-  color: var(--accent-orange);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.accent-word {
-  color: var(--accent-orange);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-/* Today Status Sub-block inside Hero (Burnt Orange Border Accent) */
-.hero-live-status-block {
-  margin-top: 14px;
-  background: rgba(255, 255, 255, 0.96);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border: 1.5px solid var(--border-medium);
-  border-left: 5px solid var(--accent-orange);
-  border-radius: 0;
-  padding: 22px 28px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 28px;
-  flex-wrap: wrap;
-  box-shadow: 0 6px 20px rgba(186, 78, 38, 0.08);
-}
-
-.status-left {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-}
-
-.status-title-group {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  align-items: flex-start;
-}
-
-.status-eyebrow {
-  font-family: var(--font-subtitle);
-  font-style: italic;
-  font-weight: 500;
-  font-size: 1.02rem;
-  color: var(--ink-muted);
-  line-height: 1.3;
-}
-
-.status-phase-title {
-  font-family: var(--font-headline);
-  font-size: 1.4rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  color: var(--ink-primary);
-  line-height: 1.1;
-}
-
-.status-meta-pills {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-top: 6px;
-}
-
-.status-right {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  max-width: 360px;
-}
-
-.status-prompt-label {
-  font-family: var(--font-headline);
-  font-size: 0.92rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent-teal);
-}
-
-.status-prompt {
-  font-family: var(--font-subtitle);
-  font-style: italic;
-  font-weight: 500;
-  font-size: 1.25rem;
-  color: var(--ink-secondary);
-  line-height: 1.55;
-}
-
+/* Pill Badges */
 .pill-badge {
   font-family: var(--font-headline);
   font-size: 0.86rem;
@@ -736,6 +566,107 @@ body {
   gap: 36px;
 }
 
+/* ==========================================================================
+   NEBULA FORGERY CELESTIAL PARTICLE ENGINE
+   ========================================================================== */
+
+.nebula-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.proto-star {
+  position: absolute;
+  top: 92px;
+  right: 92px;
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(197, 160, 89, 0.45) 0%, rgba(201, 74, 16, 0.18) 45%, transparent 70%);
+  animation: supernova-pulse 6s ease-in-out infinite;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.ejecta-stream {
+  position: absolute;
+  top: 92px;
+  right: 92px;
+  width: 0;
+  height: 0;
+  animation: stream-rotate 24s linear infinite;
+  pointer-events: none;
+}
+
+.nebula-particle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  pointer-events: none;
+  animation-name: particle-travel, particle-fade;
+  animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1), ease-in-out;
+  animation-iteration-count: infinite, infinite;
+}
+
+@keyframes supernova-pulse {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.9;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.4);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.9;
+  }
+}
+
+@keyframes stream-rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes particle-travel {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(calc(var(--distance-x) * 1px), calc(var(--distance-y) * 1px)) rotate(360deg);
+  }
+}
+
+@keyframes particle-fade {
+  0% {
+    opacity: 1;
+    background: #ffffff;
+    box-shadow: 0 0 8px #ffffff;
+  }
+  50% {
+    background: #ffab73;
+    box-shadow: 0 0 15px #ffab73;
+  }
+  100% {
+    opacity: 0;
+    background: #ff6b6b;
+    box-shadow: 0 0 20px #ff6b6b;
+  }
+}
+
 /* Hero Reading Card */
 .reading-hero-card {
   background: var(--bg-card);
@@ -767,6 +698,8 @@ body {
   gap: 28px;
   flex-wrap: wrap;
   margin-bottom: 32px;
+  position: relative;
+  z-index: 2;
 }
 
 .hero-date-group {
@@ -835,6 +768,8 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
   margin-bottom: 8px;
+  position: relative;
+  z-index: 2;
 }
 
 @media (max-width: 640px) {
@@ -876,6 +811,8 @@ body {
   border: 1.5px solid var(--accent-teal-border);
   border-left: 4px solid var(--accent-teal);
   background: var(--bg-canvas-subtle);
+  position: relative;
+  z-index: 2;
 }
 
 .theme-title-group {

@@ -293,8 +293,50 @@ function jumpToNextPhase(target) {
   }
 }
 
+// Procedural Nebula Cosmic Particle Engine
+function initNebulaEffect() {
+  const container = document.getElementById("nebulaContainer");
+  if (!container) return;
+
+  // Clear previous streams if any
+  const existingStreams = container.querySelectorAll(".ejecta-stream");
+  existingStreams.forEach(el => el.remove());
+
+  const random = (min, max) => Math.random() * (max - min) + min;
+
+  // Procedurally generate 8 streams of rotating particles
+  for (let i = 0; i < 8; i++) {
+    const stream = document.createElement("div");
+    stream.className = "ejecta-stream";
+    stream.style.animationDelay = `${(i * -2.5).toFixed(1)}s`;
+
+    // Generate 15 glowing particles per stream (120 particles total)
+    for (let p = 0; p < 15; p++) {
+      const angle = random(0, 360) * (Math.PI / 180);
+      const radius = random(100, 380);
+      const distanceX = Math.cos(angle) * radius;
+      const distanceY = Math.sin(angle) * radius;
+      const duration = random(8, 15);
+      const delay = random(-12, 0);
+
+      const particle = document.createElement("div");
+      particle.className = "nebula-particle";
+      particle.style.setProperty("--distance-x", distanceX.toFixed(2));
+      particle.style.setProperty("--distance-y", distanceY.toFixed(2));
+      particle.style.animationDuration = `${duration.toFixed(2)}s, ${duration.toFixed(2)}s`;
+      particle.style.animationDelay = `${delay.toFixed(2)}s, ${delay.toFixed(2)}s`;
+
+      stream.appendChild(particle);
+    }
+    container.appendChild(stream);
+  }
+}
+
 // Initialize Application
 document.addEventListener("DOMContentLoaded", () => {
+  // Initialize Celestial Particle Engine
+  initNebulaEffect();
+
   // Calendar Navigation
   const btnPrevMonth = document.getElementById("btnPrevMonth");
   const btnNextMonth = document.getElementById("btnNextMonth");
