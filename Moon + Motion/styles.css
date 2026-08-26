@@ -52,7 +52,6 @@
   --shadow-lg: 0 20px 48px rgba(20, 20, 20, 0.07);
   
   /* Typography Design Tokens */
-  --font-quote: 'EB Garamond', Garamond, Georgia, serif;
   --font-headline: 'Oswald', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-subtitle: 'Lora', Georgia, serif;
   --font-body: 'Lora', Georgia, serif;
@@ -183,9 +182,217 @@ body {
 
 
 
+/* ==========================================================================
+   FULL-WIDTH PANORAMIC HERO SHOWCASE (SPACIOUS & SHARP)
+   ========================================================================== */
 
+.hero-panoramic-card {
+  position: relative;
+  background-color: var(--bg-card);
+  background-image: url('images/hero-moon-wide.png');
+  background-size: cover;
+  background-position: right 10% center;
+  background-repeat: no-repeat;
+  border: 1.5px solid var(--border-medium);
+  border-radius: 0;
+  box-shadow: var(--shadow-md);
+  min-height: 520px;
+  display: flex;
+  overflow: hidden;
+}
 
-/* Pill Badges */
+.hero-panoramic-scrim {
+  width: 100%;
+  background: linear-gradient(
+    90deg, 
+    rgba(250, 247, 242, 0.98) 0%, 
+    rgba(250, 247, 242, 0.94) 36%, 
+    rgba(250, 247, 242, 0.35) 48%, 
+    rgba(250, 247, 242, 0) 56%, 
+    rgba(250, 247, 242, 0) 100%
+  );
+  padding: 56px 64px;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 960px) {
+  .hero-panoramic-card {
+    min-height: auto;
+    background-position: right center;
+  }
+  .hero-panoramic-scrim {
+    background: linear-gradient(
+      180deg, 
+      rgba(250, 247, 242, 0.98) 0%, 
+      rgba(250, 247, 242, 0.92) 58%, 
+      rgba(250, 247, 242, 0.70) 100%
+    );
+    padding: 36px 24px;
+  }
+}
+
+.hero-content-col {
+  max-width: 530px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 2;
+}
+
+.hero-badge-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 2px;
+}
+
+.hero-pretitle {
+  font-family: var(--font-headline);
+  font-size: 0.90rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent-teal);
+}
+
+.hero-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 4px;
+}
+
+.hero-headline {
+  font-family: var(--font-headline);
+  font-size: 2.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.1;
+}
+
+@media (max-width: 600px) {
+  .hero-headline {
+    font-size: 2.1rem;
+  }
+}
+
+.hero-subtext {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.35rem;
+  color: var(--ink-primary);
+  line-height: 1.45;
+}
+
+.hero-lead {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.15rem;
+  color: var(--ink-secondary);
+  line-height: 1.85;
+  max-width: 600px;
+}
+
+/* Word Highlights (Zero Underlines) */
+.highlight-orange {
+  color: var(--accent-orange);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.accent-word {
+  color: var(--accent-orange);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Today Status Sub-block inside Hero (Burnt Orange Border Accent) */
+.hero-live-status-block {
+  margin-top: 14px;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1.5px solid var(--border-medium);
+  border-left: 5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 22px 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  flex-wrap: wrap;
+  box-shadow: 0 6px 20px rgba(186, 78, 38, 0.08);
+}
+
+.status-left {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.status-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+}
+
+.status-eyebrow {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.02rem;
+  color: var(--ink-muted);
+  line-height: 1.3;
+}
+
+.status-phase-title {
+  font-family: var(--font-headline);
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.1;
+}
+
+.status-meta-pills {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.status-right {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 360px;
+}
+
+.status-prompt-label {
+  font-family: var(--font-headline);
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-teal);
+}
+
+.status-prompt {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.25rem;
+  color: var(--ink-secondary);
+  line-height: 1.55;
+}
+
 .pill-badge {
   font-family: var(--font-headline);
   font-size: 0.86rem;
@@ -520,7 +727,7 @@ body {
 #btnJumpNextWaning { border-left-color: var(--accent-teal); }
 
 /* ==========================================================================
-   RIGHT PANEL: DAILY STRATEGIC LUNAR READING & MOTION SHOWCASE
+   RIGHT PANEL: DAILY STRATEGIC LUNAR READING (AIRY & GENEROUS)
    ========================================================================== */
 
 .reading-panel {
@@ -529,7 +736,7 @@ body {
   gap: 36px;
 }
 
-/* 1. Hero Reading Card (Daily Moon Section) */
+/* Hero Reading Card */
 .reading-hero-card {
   background: var(--bg-card);
   border: 1.5px solid var(--border-medium);
@@ -553,177 +760,6 @@ body {
   pointer-events: none;
 }
 
-/* ==========================================================================
-   2. DEDICATED NEBULA FORGERY MOTION GRAPHIC SHOWCASE CARD
-   ========================================================================== */
-
-.nebula-motion-card {
-  position: relative;
-  background: #0C0C0C;
-  border: 1.5px solid var(--border-medium);
-  border-top: 3.5px solid var(--accent-orange);
-  border-radius: 0;
-  min-height: 420px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  box-shadow: var(--shadow-lg);
-  padding: 56px 36px;
-}
-
-.nebula-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  pointer-events: none;
-  z-index: 1;
-}
-
-.proto-star {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 170px;
-  height: 170px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.95) 0%, rgba(255, 171, 115, 0.65) 32%, rgba(201, 74, 16, 0.22) 58%, transparent 75%);
-  animation: supernova-pulse 5.5s ease-in-out infinite;
-  transform: translate(-50%, -50%);
-  pointer-events: none;
-  filter: blur(1px);
-}
-
-.ejecta-stream {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 0;
-  height: 0;
-  animation: stream-rotate 22s linear infinite;
-  pointer-events: none;
-}
-
-.nebula-particle {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 3.5px;
-  height: 3.5px;
-  border-radius: 50%;
-  pointer-events: none;
-  animation-name: particle-travel, particle-fade;
-  animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1), ease-in-out;
-  animation-iteration-count: infinite, infinite;
-}
-
-.nebula-content-overlay {
-  position: relative;
-  z-index: 10;
-  text-align: center;
-  max-width: 820px;
-  margin: 0 auto;
-  pointer-events: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 14px;
-}
-
-.nebula-hero-quote {
-  font-family: var(--font-quote);
-  font-style: italic;
-  font-weight: 500;
-  font-size: clamp(2.6rem, 5.2vw, 4.5rem); /* ~72px in centered luxury typography */
-  line-height: 1.14;
-  color: #FFFDF8;
-  letter-spacing: -0.015em;
-  text-align: center;
-  text-shadow: 
-    0 0 24px rgba(255, 255, 255, 0.65),
-    0 0 50px rgba(197, 160, 89, 0.45),
-    0 4px 18px rgba(0, 0, 0, 0.95);
-  margin: 0 auto;
-}
-
-.nebula-subtext {
-  font-family: var(--font-subtitle);
-  font-style: italic;
-  font-weight: 400;
-  font-size: 1.25rem;
-  color: #E2D9CA;
-  line-height: 1.6;
-  text-align: center;
-  max-width: 600px;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.9);
-}
-
-@keyframes supernova-pulse {
-  0% {
-    transform: translate(-50%, -50%) scale(1);
-    opacity: 0.95;
-  }
-  50% {
-    transform: translate(-50%, -50%) scale(1.45);
-    opacity: 0.55;
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1);
-    opacity: 0.95;
-  }
-}
-
-@keyframes stream-rotate {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@keyframes particle-travel {
-  0% {
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(calc(var(--distance-x) * 1px), calc(var(--distance-y) * 1px)) rotate(360deg);
-  }
-}
-
-@keyframes particle-fade {
-  0% {
-    opacity: 1;
-    background: #ffffff;
-    box-shadow: 0 0 8px #ffffff;
-  }
-  50% {
-    background: #ffab73;
-    box-shadow: 0 0 15px #ffab73;
-  }
-  100% {
-    opacity: 0;
-    background: #ff6b6b;
-    box-shadow: 0 0 20px #ff6b6b;
-  }
-}
-
-.reading-hero-card::after {
-  content: '';
-  position: absolute;
-  top: -60px;
-  right: -60px;
-  width: 240px;
-  height: 240px;
-  border-radius: 50%;
-  background: radial-gradient(circle, var(--accent-gold-soft) 0%, transparent 70%);
-  pointer-events: none;
-}
-
 .hero-meta-header {
   display: flex;
   justify-content: space-between;
@@ -731,8 +767,6 @@ body {
   gap: 28px;
   flex-wrap: wrap;
   margin-bottom: 32px;
-  position: relative;
-  z-index: 2;
 }
 
 .hero-date-group {
@@ -801,8 +835,6 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
   margin-bottom: 8px;
-  position: relative;
-  z-index: 2;
 }
 
 @media (max-width: 640px) {
@@ -844,8 +876,6 @@ body {
   border: 1.5px solid var(--accent-teal-border);
   border-left: 4px solid var(--accent-teal);
   background: var(--bg-canvas-subtle);
-  position: relative;
-  z-index: 2;
 }
 
 .theme-title-group {
