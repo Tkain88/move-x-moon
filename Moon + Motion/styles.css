@@ -726,60 +726,6 @@ body {
 #btnJumpNextFull { border-left-color: var(--accent-blush); }
 #btnJumpNextWaning { border-left-color: var(--accent-teal); }
 
-/* Sacred Business Geometry Cadence Feature */
-.calendar-cadence-frame {
-  margin-top: 24px;
-  border-top: 1px solid var(--border-delicate);
-  padding-top: 18px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.cadence-img-container {
-  width: 100%;
-  aspect-ratio: 16 / 10;
-  overflow: hidden;
-  border: 1px solid var(--border-medium);
-  background: var(--bg-card-elevated);
-}
-
-.cadence-spiral-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-  transition: transform 0.4s ease;
-}
-
-.calendar-cadence-frame:hover .cadence-spiral-img {
-  transform: scale(1.03);
-}
-
-.cadence-caption {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-}
-
-.cadence-caption-title {
-  font-family: var(--font-headline);
-  font-size: 0.84rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent-orange);
-}
-
-.cadence-caption-text {
-  font-family: var(--font-subtitle);
-  font-style: italic;
-  font-size: 0.94rem;
-  color: var(--ink-secondary);
-  line-height: 1.45;
-}
-
 /* ==========================================================================
    RIGHT PANEL: DAILY STRATEGIC LUNAR READING (AIRY & GENEROUS)
    ========================================================================== */
@@ -930,52 +876,6 @@ body {
   border: 1.5px solid var(--accent-teal-border);
   border-left: 4px solid var(--accent-teal);
   background: var(--bg-canvas-subtle);
-}
-
-.theme-layout-split {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 150px;
-  gap: 28px;
-  align-items: center;
-}
-
-@media (max-width: 720px) {
-  .theme-layout-split {
-    grid-template-columns: 1fr;
-  }
-}
-
-.theme-mandala-frame {
-  width: 150px;
-  height: 150px;
-  border-radius: 0;
-  border: 1.5px solid var(--accent-gold-border);
-  box-shadow: 0 4px 20px rgba(197, 160, 89, 0.22);
-  overflow: hidden;
-  flex-shrink: 0;
-  background: #141414;
-}
-
-@media (max-width: 720px) {
-  .theme-mandala-frame {
-    width: 100%;
-    max-width: 240px;
-    height: 180px;
-    margin-top: 12px;
-  }
-}
-
-.theme-mandala-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-  transition: transform 0.5s ease;
-}
-
-.theme-mandala-frame:hover .theme-mandala-img {
-  transform: scale(1.05);
 }
 
 .theme-title-group {
@@ -1272,24 +1172,6 @@ body {
   }
 }
 
-.somatic-visual-stack {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  width: 130px;
-}
-
-@media (max-width: 640px) {
-  .somatic-visual-stack {
-    flex-direction: row;
-    width: 100%;
-    gap: 12px;
-  }
-  .somatic-visual-stack .somatic-thumbnail-frame {
-    max-width: 130px;
-  }
-}
-
 .somatic-thumbnail-frame {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -1297,16 +1179,6 @@ body {
   overflow: hidden;
   border: 1.5px solid var(--accent-gold-border);
   box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
-  transition: transform 0.3s ease;
-}
-
-.somatic-thumbnail-frame:hover {
-  transform: translateY(-2px);
-}
-
-.somatic-thumbnail-frame.portal-frame {
-  border-color: var(--accent-orange-border);
-  box-shadow: 0 4px 18px rgba(201, 74, 16, 0.15);
 }
 
 .somatic-thumbnail-img {
