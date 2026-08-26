@@ -1,11 +1,5 @@
 {
   "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/Moon + Motion/$1"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",

@@ -1,0 +1,1396 @@
+/* ==========================================================================
+   MOON x MOTION — LUNAR BUSINESS GUIDING STAR
+   Aesthetic: High-End Celestial Architectural Editorial on Warm Luxury Paper
+   Layout: Spacious Luxury Proportions, Sharp Edges, Airy Typography
+   Colors: Warm Paper (#FAF7F2), Obsidian (#141414), Teal, Burnt Orange, Blush Red
+   
+   TYPOGRAPHY SYSTEM:
+   - HEADLINES & TITLES: Oswald (weight 600, all-caps, slight letter-spacing)
+   - SUBTITLES & SUPPORTING VOICE: Lora (italic, weight 500/600, high screen legibility)
+   - BODY COPY: Lora (regular 400, carrying the narrative)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Oswald:wght@500;600;700&display=swap');
+
+:root {
+  /* Warm Paper & Parchment Palette */
+  --bg-canvas: #FAF7F2;
+  --bg-canvas-subtle: #F4EFE6;
+  --bg-card: #FFFFFF;
+  --bg-card-elevated: #F9F6F0;
+  --bg-card-tint: #F3ECE0;
+  
+  /* Text & Inks (Jet Black Palette) */
+  --ink-primary: #000000;
+  --ink-secondary: #000000;
+  --ink-muted: #111111;
+  --ink-faint: #333333;
+  
+  /* Vibrant Accent Pops */
+  --accent-teal: #1A8285;
+  --accent-teal-soft: rgba(26, 130, 133, 0.10);
+  --accent-teal-border: rgba(26, 130, 133, 0.35);
+  
+  --accent-orange: #C94A10;
+  --accent-orange-soft: rgba(201, 74, 16, 0.10);
+  --accent-orange-border: rgba(201, 74, 16, 0.35);
+  
+  --accent-blush: #D95D69;
+  --accent-blush-soft: rgba(217, 93, 105, 0.10);
+  --accent-blush-border: rgba(217, 93, 105, 0.35);
+  
+  --accent-gold: #C5A059;
+  --accent-gold-soft: rgba(197, 160, 89, 0.15);
+  --accent-gold-border: rgba(197, 160, 89, 0.40);
+  
+  /* Architectural Borders & Shadows */
+  --border-delicate: rgba(20, 20, 20, 0.08);
+  --border-medium: rgba(20, 20, 20, 0.15);
+  --border-strong: rgba(20, 20, 20, 0.30);
+  --shadow-sm: 0 4px 14px rgba(20, 20, 20, 0.03);
+  --shadow-md: 0 10px 30px rgba(20, 20, 20, 0.05);
+  --shadow-lg: 0 20px 48px rgba(20, 20, 20, 0.07);
+  
+  /* Typography Design Tokens */
+  --font-headline: 'Oswald', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-subtitle: 'Lora', Georgia, serif;
+  --font-body: 'Lora', Georgia, serif;
+  
+  /* Sharp Edge Architecture */
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-full: 0px;
+  --transition-smooth: all 0.24s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  background-color: var(--bg-canvas);
+}
+
+body {
+  font-family: var(--font-body);
+  font-weight: 400;
+  background-color: var(--bg-canvas);
+  color: var(--ink-primary);
+  line-height: 1.75;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: 
+    radial-gradient(circle at 15% 10%, rgba(197, 160, 89, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 85% 80%, rgba(26, 130, 133, 0.04) 0%, transparent 45%);
+}
+
+/* Base Layout Container with Ample Breathing Room */
+.app-viewport {
+  max-width: 1380px;
+  margin: 0 auto;
+  padding: 36px 32px 100px;
+}
+
+@media (max-width: 768px) {
+  .app-viewport {
+    padding: 20px 16px 60px;
+  }
+}
+
+/* ==========================================================================
+   HEADER & EDITORIAL BRAND BAR
+   ========================================================================== */
+
+.editorial-header {
+  border-bottom: 1.5px solid var(--border-medium);
+  padding-bottom: 36px;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.brand-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.brand-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  text-align: center;
+}
+
+.brand-title-group h1 {
+  font-family: var(--font-headline);
+  font-size: 2.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-right: -0.08em;
+  color: var(--ink-primary);
+  line-height: 1;
+}
+
+.brand-cross {
+  font-family: var(--font-headline);
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: lowercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-primary);
+  display: inline-block;
+  vertical-align: baseline;
+  margin: 0;
+  line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .brand-title-group h1 {
+    font-size: 1.95rem;
+    letter-spacing: 0.06em;
+    margin-right: -0.06em;
+  }
+  .brand-cross {
+    font-size: 1em;
+    letter-spacing: 0.06em;
+  }
+}
+
+.brand-subtext {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.15rem;
+  color: var(--ink-primary);
+  line-height: 1.35;
+  margin-top: 4px;
+  letter-spacing: 0.005em;
+  display: block;
+}
+
+
+
+/* ==========================================================================
+   FULL-WIDTH PANORAMIC HERO SHOWCASE (SPACIOUS & SHARP)
+   ========================================================================== */
+
+.hero-panoramic-card {
+  position: relative;
+  background-color: var(--bg-card);
+  background-image: url('images/hero-moon-wide.png');
+  background-size: cover;
+  background-position: right 10% center;
+  background-repeat: no-repeat;
+  border: 1.5px solid var(--border-medium);
+  border-radius: 0;
+  box-shadow: var(--shadow-md);
+  min-height: 520px;
+  display: flex;
+  overflow: hidden;
+}
+
+.hero-panoramic-scrim {
+  width: 100%;
+  background: linear-gradient(
+    90deg, 
+    rgba(250, 247, 242, 0.98) 0%, 
+    rgba(250, 247, 242, 0.94) 36%, 
+    rgba(250, 247, 242, 0.35) 48%, 
+    rgba(250, 247, 242, 0) 56%, 
+    rgba(250, 247, 242, 0) 100%
+  );
+  padding: 56px 64px;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 960px) {
+  .hero-panoramic-card {
+    min-height: auto;
+    background-position: right center;
+  }
+  .hero-panoramic-scrim {
+    background: linear-gradient(
+      180deg, 
+      rgba(250, 247, 242, 0.98) 0%, 
+      rgba(250, 247, 242, 0.92) 58%, 
+      rgba(250, 247, 242, 0.70) 100%
+    );
+    padding: 36px 24px;
+  }
+}
+
+.hero-content-col {
+  max-width: 530px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 2;
+}
+
+.hero-badge-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 2px;
+}
+
+.hero-pretitle {
+  font-family: var(--font-headline);
+  font-size: 0.90rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent-teal);
+}
+
+.hero-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 4px;
+}
+
+.hero-headline {
+  font-family: var(--font-headline);
+  font-size: 2.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.1;
+}
+
+@media (max-width: 600px) {
+  .hero-headline {
+    font-size: 2.1rem;
+  }
+}
+
+.hero-subtext {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.35rem;
+  color: var(--ink-primary);
+  line-height: 1.45;
+}
+
+.hero-lead {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.15rem;
+  color: var(--ink-secondary);
+  line-height: 1.85;
+  max-width: 600px;
+}
+
+/* Word Highlights (Zero Underlines) */
+.highlight-orange {
+  color: var(--accent-orange);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.accent-word {
+  color: var(--accent-orange);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Today Status Sub-block inside Hero (Burnt Orange Border Accent) */
+.hero-live-status-block {
+  margin-top: 14px;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1.5px solid var(--border-medium);
+  border-left: 5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 22px 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  flex-wrap: wrap;
+  box-shadow: 0 6px 20px rgba(186, 78, 38, 0.08);
+}
+
+.status-left {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.status-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+}
+
+.status-eyebrow {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.02rem;
+  color: var(--ink-muted);
+  line-height: 1.3;
+}
+
+.status-phase-title {
+  font-family: var(--font-headline);
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.1;
+}
+
+.status-meta-pills {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.status-right {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 360px;
+}
+
+.status-prompt-label {
+  font-family: var(--font-headline);
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-teal);
+}
+
+.status-prompt {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.25rem;
+  color: var(--ink-secondary);
+  line-height: 1.55;
+}
+
+.pill-badge {
+  font-family: var(--font-headline);
+  font-size: 0.86rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 6px 14px;
+  border-radius: 0;
+  line-height: 1.15;
+  display: inline-block;
+}
+
+.pill-teal {
+  background: var(--accent-teal-soft);
+  color: var(--accent-teal);
+  border: 1px solid var(--accent-teal-border);
+}
+
+.pill-orange {
+  background: var(--accent-orange-soft);
+  color: var(--accent-orange);
+  border: 1px solid var(--accent-orange-border);
+}
+
+.pill-blush {
+  background: var(--accent-blush-soft);
+  color: var(--accent-blush);
+  border: 1px solid var(--accent-blush-border);
+}
+
+.pill-gold {
+  background: var(--accent-gold-soft);
+  color: #9C7924;
+  border: 1px solid var(--accent-gold-border);
+}
+
+/* ==========================================================================
+   MAIN DUAL-PANEL GRID
+   ========================================================================== */
+
+.main-dashboard-grid {
+  display: grid;
+  grid-template-columns: 390px minmax(0, 1fr);
+  gap: 40px;
+  align-items: start;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1060px) {
+  .main-dashboard-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+}
+
+/* ==========================================================================
+   LEFT PANEL: CALENDAR CARD (CONTAINED & SHARP)
+   ========================================================================== */
+
+.calendar-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-medium);
+  border-top: 3.5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 24px 20px;
+  box-shadow: var(--shadow-md);
+  position: sticky;
+  top: 24px;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.calendar-header-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-delicate);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cal-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.cal-month-title {
+  font-family: var(--font-headline);
+  font-size: 1.45rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-primary);
+  line-height: 1;
+}
+
+.cal-subtext {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: var(--ink-muted);
+  line-height: 1.3;
+  margin-top: 1px;
+}
+
+.cal-nav-btn-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.cal-icon-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 0;
+  border: 1.5px solid var(--border-medium);
+  background: var(--bg-card);
+  color: var(--ink-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  flex-shrink: 0;
+}
+
+.cal-icon-btn:hover {
+  background: var(--ink-primary);
+  color: var(--bg-canvas);
+  border-color: var(--ink-primary);
+}
+
+/* Weekday Labels */
+.weekday-row {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  text-align: center;
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border-delicate);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.weekday-label {
+  font-family: var(--font-headline);
+  font-size: 0.84rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Month Grid */
+.calendar-days-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cal-day-cell {
+  min-height: 50px;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 0;
+  border: 1px solid var(--border-delicate);
+  background: var(--bg-card-elevated);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 1px;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  position: relative;
+}
+
+.cal-day-cell:hover {
+  background: var(--bg-canvas-subtle);
+  border-color: var(--accent-gold);
+  transform: translateY(-1px);
+}
+
+.cal-day-cell.other-month {
+  opacity: 0.25;
+  background: transparent;
+}
+
+.cal-day-cell.is-today {
+  border-color: var(--accent-orange);
+  background: var(--accent-orange-soft);
+}
+
+.cal-day-cell.is-today::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 4px;
+  height: 4px;
+  border-radius: 0;
+  background: var(--accent-orange);
+}
+
+/* High-End Gilded Selected Cell State */
+.cal-day-cell.is-selected {
+  background: var(--bg-card) !important;
+  border: 1.5px solid var(--accent-gold) !important;
+  box-shadow: 0 0 0 1px var(--accent-gold), 0 4px 12px rgba(197, 160, 89, 0.25) !important;
+  z-index: 3;
+}
+
+.cal-day-cell.is-selected::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--accent-gold);
+}
+
+.cal-day-cell.is-selected .day-num {
+  color: var(--ink-primary) !important;
+  font-weight: 700;
+}
+
+.day-num {
+  font-family: var(--font-headline);
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--ink-primary);
+  line-height: 1;
+}
+
+.day-moon-container {
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1px 0;
+  flex-shrink: 0;
+}
+
+.day-moon-container svg {
+  width: 100%;
+  height: 100%;
+  max-width: 18px;
+  max-height: 18px;
+  display: block;
+}
+
+.day-key-phase-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 0;
+}
+
+.dot-new { background: var(--accent-teal); }
+.dot-full { background: var(--accent-blush); }
+.dot-quarter { background: var(--accent-orange); }
+
+/* Quick Cycle Jump Anchors */
+.cycle-jump-strip {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1.5px solid var(--border-delicate);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cycle-jump-title {
+  font-family: var(--font-headline);
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+}
+
+.cycle-jump-buttons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.btn-cycle-jump {
+  font-family: var(--font-headline);
+  font-size: 0.84rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 10px 14px;
+  border-radius: 0;
+  background: var(--bg-card-elevated);
+  border: 1px solid var(--border-medium);
+  border-left: 3px solid var(--accent-gold);
+  color: var(--ink-secondary);
+  cursor: pointer;
+  text-align: left;
+  transition: var(--transition-smooth);
+}
+
+.btn-cycle-jump:hover {
+  background: var(--bg-canvas-subtle);
+  color: var(--ink-primary);
+  border-color: var(--ink-primary);
+  transform: translateY(-1px);
+}
+
+#btnJumpNextNew { border-left-color: var(--accent-teal); }
+#btnJumpNextWaxing { border-left-color: var(--accent-orange); }
+#btnJumpNextFull { border-left-color: var(--accent-blush); }
+#btnJumpNextWaning { border-left-color: var(--accent-teal); }
+
+/* ==========================================================================
+   RIGHT PANEL: DAILY STRATEGIC LUNAR READING (AIRY & GENEROUS)
+   ========================================================================== */
+
+.reading-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+/* Hero Reading Card */
+.reading-hero-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-medium);
+  border-top: 3.5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 40px 42px 36px;
+  box-shadow: var(--shadow-md);
+  position: relative;
+  overflow: hidden;
+}
+
+.reading-hero-card::after {
+  content: '';
+  position: absolute;
+  top: -60px;
+  right: -60px;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--accent-gold-soft) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.hero-meta-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 28px;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.hero-date-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+}
+
+.reading-human-date {
+  font-family: var(--font-headline);
+  font-size: 0.84rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-secondary);
+}
+
+.reading-phase-heading {
+  font-family: var(--font-headline);
+  font-size: 2.45rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.1;
+}
+
+.reading-phase-subtext {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: var(--ink-primary);
+  line-height: 1.4;
+  margin-top: 2px;
+}
+
+.hero-visual-combo {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.large-moon-viewport {
+  width: 104px;
+  height: 104px;
+  border-radius: 50%;
+  background: #141414;
+  border: 2px solid var(--accent-gold);
+  box-shadow: 0 0 32px rgba(197, 160, 89, 0.28);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.large-moon-viewport svg {
+  width: 100%;
+  height: 100%;
+}
+
+.lunar-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 640px) {
+  .lunar-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.metric-box {
+  background: var(--bg-card-elevated);
+  border: 1.5px solid var(--border-delicate);
+  border-radius: 0;
+  padding: 16px 18px;
+}
+
+.metric-label {
+  font-family: var(--font-headline);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  margin-bottom: 4px;
+}
+
+.metric-value {
+  font-family: var(--font-headline);
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--ink-primary);
+}
+
+/* Strategic Theme Box with Rich Padding */
+.strategic-theme-card {
+  margin-top: 32px;
+  padding: 28px 32px;
+  border-radius: 0;
+  border: 1.5px solid var(--accent-teal-border);
+  border-left: 4px solid var(--accent-teal);
+  background: var(--bg-canvas-subtle);
+}
+
+.theme-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 14px;
+  align-items: flex-start;
+}
+
+.theme-title {
+  font-family: var(--font-headline);
+  font-size: 1.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-primary);
+  line-height: 1.2;
+}
+
+.theme-subtitle {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.25rem;
+  color: var(--ink-secondary);
+  line-height: 1.4;
+}
+
+.theme-narrative {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.15rem;
+  color: var(--ink-secondary);
+  line-height: 1.85;
+}
+
+/* ==========================================================================
+   TACTICAL CARDS: HOW TO PLAN & WHAT TO EXECUTE (SPACIOUS & CLEAR)
+   ========================================================================== */
+
+.tactical-dual-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+}
+
+@media (max-width: 820px) {
+  .tactical-dual-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.tactical-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-medium);
+  border-top: 3.5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 32px 30px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-top-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1.5px solid var(--border-delicate);
+  gap: 16px;
+}
+
+.card-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+}
+
+.card-title {
+  font-family: var(--font-headline);
+  font-size: 1.55rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-primary);
+  line-height: 1.15;
+}
+
+.card-subtitle {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.15rem;
+  color: var(--ink-primary);
+  line-height: 1.35;
+}
+
+.bullet-points-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.bullet-points-list li {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.10rem;
+  color: var(--ink-secondary);
+  line-height: 1.75;
+  position: relative;
+  padding-left: 22px;
+}
+
+.bullet-points-list li::before {
+  content: '';
+  position: absolute;
+  left: 2px;
+  top: 11px;
+  width: 6px;
+  height: 6px;
+  border-radius: 0;
+  background: var(--accent-teal);
+}
+
+.tactical-card.execution .bullet-points-list li::before {
+  background: var(--accent-orange);
+}
+
+/* Strategic Inquiry Callout (Teal Box & Borders) */
+.inquiry-callout-box {
+  background: var(--accent-teal-soft);
+  border: 1.5px solid var(--accent-teal);
+  border-left: 4px solid var(--accent-teal);
+  border-radius: 0;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.inquiry-label {
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-teal);
+  margin-bottom: 8px;
+}
+
+.inquiry-quote {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.28rem;
+  color: var(--ink-primary);
+  line-height: 1.6;
+}
+
+/* What to Lovingly Step Away From Callout */
+.pause-callout-box {
+  background: var(--bg-canvas-subtle);
+  border: 1.5px solid var(--border-medium);
+  border-left: 3px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 18px 22px;
+  margin-top: 20px;
+}
+
+.pause-label {
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-orange);
+  margin-bottom: 10px;
+}
+
+.pause-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.pause-list li {
+  font-family: var(--font-body);
+  font-size: 1.08rem;
+  color: var(--ink-secondary);
+  line-height: 1.7;
+  position: relative;
+  padding-left: 20px;
+}
+
+.pause-list li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--accent-orange);
+  font-weight: 700;
+}
+
+/* Tuesday Afternoon Action Callout */
+.tuesday-action-box {
+  background: var(--accent-orange-soft);
+  border: 1.5px solid var(--accent-orange-border);
+  border-radius: 0;
+  padding: 20px 24px;
+}
+
+.tuesday-label {
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-orange);
+  margin-bottom: 8px;
+}
+
+.tuesday-directive {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.14rem;
+  color: var(--ink-primary);
+  line-height: 1.75;
+}
+
+/* ==========================================================================
+   SOMATIC ANCHOR & ACTIVATION CARD (SPACIOUS LUXURY)
+   ========================================================================== */
+
+.activation-wisdom-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-medium);
+  border-top: 3.5px solid var(--accent-orange);
+  border-radius: 0;
+  padding: 34px 38px;
+  box-shadow: var(--shadow-sm);
+}
+
+.wisdom-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.wisdom-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+}
+
+.wisdom-title {
+  font-family: var(--font-headline);
+  font-size: 1.55rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-primary);
+  line-height: 1.15;
+}
+
+.wisdom-subtitle {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.15rem;
+  color: var(--ink-primary);
+  line-height: 1.35;
+}
+
+.somatic-layout-row {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 28px;
+  align-items: start;
+}
+
+@media (max-width: 640px) {
+  .somatic-layout-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.somatic-thumbnail-frame {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 0;
+  overflow: hidden;
+  border: 1.5px solid var(--accent-gold-border);
+  box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
+}
+
+.somatic-thumbnail-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.somatic-content-col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.somatic-practice-box {
+  background: var(--accent-teal-soft);
+  border-radius: 0;
+  padding: 22px 26px;
+  border: 1.5px solid var(--accent-teal-border);
+  border-left: 4px solid var(--accent-teal);
+}
+
+.somatic-eyebrow {
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-teal);
+  line-height: 1.3;
+  margin-bottom: 10px;
+}
+
+.somatic-instruction {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1.15rem;
+  color: var(--ink-primary);
+  line-height: 1.8;
+}
+
+.transcript-quote-box {
+  border-top: 1.5px solid var(--border-delicate);
+  padding-top: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.quote-attribution {
+  font-family: var(--font-headline);
+  font-size: 0.90rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-primary);
+}
+
+.quote-text {
+  font-family: var(--font-subtitle);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.38rem;
+  color: var(--ink-primary);
+  line-height: 1.7;
+}
+
+/* Footer & GHL Attribution */
+.app-footer {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1.5px solid var(--border-medium);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  color: var(--ink-muted);
+  font-size: 0.88rem;
+}
+
+.footer-brand {
+  font-family: var(--font-headline);
+  font-size: 1.02rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-secondary);
+}
+
+.footer-cross {
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: lowercase;
+  color: var(--ink-secondary);
+  display: inline-block;
+  vertical-align: baseline;
+  margin: 0 0.05em;
+}
+
+.footer-note {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+}
+
+/* ==========================================================================
+   MOBILE SCREEN MICRO-OPTIMIZATIONS (< 480px / iPhone SE & standard devices)
+   ========================================================================== */
+
+@media (max-width: 480px) {
+  .app-viewport {
+    padding: 16px 12px 48px;
+  }
+
+  .editorial-header {
+    gap: 20px;
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+  }
+
+  .brand-title-group h1 {
+    font-size: 2.15rem;
+  }
+
+  .hero-panoramic-scrim {
+    padding: 28px 18px;
+  }
+
+  .hero-headline {
+    font-size: 1.85rem;
+  }
+
+  .hero-subtext {
+    font-size: 1.18rem;
+  }
+
+  .hero-live-status-block {
+    padding: 18px 16px;
+    gap: 16px;
+  }
+
+  .status-left {
+    gap: 14px;
+  }
+
+  .status-prompt {
+    font-size: 1.12rem;
+  }
+
+  .calendar-card {
+    padding: 18px 14px;
+    position: static; /* Let calendar scroll naturally on mobile */
+  }
+
+  .cal-month-title {
+    font-size: 1.25rem;
+  }
+
+  .cal-day-cell {
+    min-height: 44px;
+    padding: 4px 2px;
+  }
+
+  .day-num {
+    font-size: 0.76rem;
+  }
+
+  .reading-hero-card {
+    padding: 24px 18px;
+  }
+
+  .reading-phase-heading {
+    font-size: 2.05rem;
+  }
+
+  .reading-phase-subtext {
+    font-size: 1.10rem;
+  }
+
+  .strategic-theme-card {
+    padding: 20px 18px;
+    margin-top: 24px;
+  }
+
+  .theme-title {
+    font-size: 1.45rem;
+  }
+
+  .tactical-card {
+    padding: 24px 18px;
+  }
+
+  .card-title {
+    font-size: 1.7rem;
+  }
+
+  .activation-wisdom-card {
+    padding: 24px 18px;
+  }
+
+  .activation-title {
+    font-size: 1.7rem;
+  }
+
+  /* Smooth touch response on mobile */
+  .cal-day-cell,
+  .cal-icon-btn,
+  .btn-cycle-jump,
+  .priority-checkbox {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
