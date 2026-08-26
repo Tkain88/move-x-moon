@@ -1285,3 +1285,112 @@ body {
   font-family: var(--font-body);
   font-size: 0.88rem;
 }
+
+/* ==========================================================================
+   MOBILE SCREEN MICRO-OPTIMIZATIONS (< 480px / iPhone SE & standard devices)
+   ========================================================================== */
+
+@media (max-width: 480px) {
+  .app-viewport {
+    padding: 16px 12px 48px;
+  }
+
+  .editorial-header {
+    gap: 20px;
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+  }
+
+  .brand-title-group h1 {
+    font-size: 2.15rem;
+  }
+
+  .hero-panoramic-scrim {
+    padding: 28px 18px;
+  }
+
+  .hero-headline {
+    font-size: 1.85rem;
+  }
+
+  .hero-subtext {
+    font-size: 1.18rem;
+  }
+
+  .hero-live-status-block {
+    padding: 18px 16px;
+    gap: 16px;
+  }
+
+  .status-left {
+    gap: 14px;
+  }
+
+  .status-prompt {
+    font-size: 1.12rem;
+  }
+
+  .calendar-card {
+    padding: 18px 14px;
+    position: static; /* Let calendar scroll naturally on mobile */
+  }
+
+  .cal-month-title {
+    font-size: 1.25rem;
+  }
+
+  .cal-day-cell {
+    min-height: 44px;
+    padding: 4px 2px;
+  }
+
+  .day-num {
+    font-size: 0.76rem;
+  }
+
+  .reading-hero-card {
+    padding: 24px 18px;
+  }
+
+  .reading-phase-heading {
+    font-size: 2.05rem;
+  }
+
+  .reading-phase-subtext {
+    font-size: 1.10rem;
+  }
+
+  .strategic-theme-card {
+    padding: 20px 18px;
+    margin-top: 24px;
+  }
+
+  .theme-title {
+    font-size: 1.45rem;
+  }
+
+  .tactical-card {
+    padding: 24px 18px;
+  }
+
+  .card-title {
+    font-size: 1.7rem;
+  }
+
+  .activation-wisdom-card {
+    padding: 24px 18px;
+  }
+
+  .activation-title {
+    font-size: 1.7rem;
+  }
+
+  /* Smooth touch response on mobile */
+  .cal-day-cell,
+  .cal-icon-btn,
+  .btn-cycle-jump,
+  .priority-checkbox {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
