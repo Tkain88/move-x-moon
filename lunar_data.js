@@ -1,5 +1,5 @@
 /**
- * Moon + Motion: Lunar Data & Astronomical Calculation Engine
+ * Move x Moon: Lunar Data & Astronomical Calculation Engine
  * Deterministic client-side astronomical algorithms and business knowledge base.
  */
 

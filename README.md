@@ -1,4 +1,6 @@
-# MOON x MOTION — Soul Coding Lunar Business Intelligence
+# MOVE x MOON — Soul Coding Lunar Business Intelligence
+
+*Written as MOVE x MOON • Spoken as Move Amped By Moon*
 
 A deterministic, high-luxury web application delivering grounded celestial intelligence and strategic timing for sovereign business leadership.
 
@@ -6,7 +8,7 @@ A deterministic, high-luxury web application delivering grounded celestial intel
 
 ## Overview
 
-**MOON x MOTION** bridges high-leverage business strategy with somatic and lunar timing. It provides deterministic, zero-dependency lunar calculations, tactical execution blueprints, and deep somatic anchors for 4 core business rhythms:
+**MOVE x MOON** bridges high-leverage business strategy with somatic and lunar timing. It provides deterministic, zero-dependency lunar calculations, tactical execution blueprints, and deep somatic anchors for 4 core business rhythms:
 
 1. **New Moon**: *Seeding Big Visions, Deep Incubation & Clean Slates*
 2. **Waxing Moon**: *Connecting Dots, Building Momentum, Expansion & High Velocity*
@@ -32,11 +34,12 @@ A deterministic, high-luxury web application delivering grounded celestial intel
 ## Directory Structure
 
 ```
-├── Moon + Motion/              # Production Web Application (Embed-Ready)
+├── Move x Moon/                # Production Web Application (Embed-Ready)
 │   ├── index.html              # Clean semantic HTML markup
 │   ├── styles.css              # Vanilla CSS design system & typography
 │   ├── lunar_data.js           # Astronomical formulas & lunar knowledge base
-│   └── app.js                  # State management & dynamic DOM rendering
+│   ├── app.js                  # State management & dynamic DOM rendering
+│   └── images/                 # Editorial portrait & visual assets
 ├── tools/                      # Build & Validation Automation
 │   ├── build_site.py           # Verification script (zero emojis, astronomical math)
 │   ├── calculate_moon.py       # Python astronomical reference engine
@@ -54,7 +57,7 @@ A deterministic, high-luxury web application delivering grounded celestial intel
 To run the application locally:
 
 ```bash
-python3 -m http.server 8088 --directory "Moon + Motion"
+python3 -m http.server 8088 --directory "Move x Moon"
 ```
 
 Open your browser to [http://127.0.0.1:8088](http://127.0.0.1:8088).
@@ -69,7 +72,7 @@ python3 tools/build_site.py
 
 ## Embed Instructions (GoHighLevel / Webflow / Custom Site)
 
-The files in the `Moon + Motion/` directory can be embedded directly into custom HTML/JS containers or hosted on any static site CDN.
+The files in the `Move x Moon/` directory can be embedded directly into custom HTML/JS containers or hosted on any static site CDN.
 
 ---
 

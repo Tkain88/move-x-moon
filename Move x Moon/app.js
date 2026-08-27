@@ -1,5 +1,5 @@
 /**
- * Moon + Motion: Interactive Application Logic
+ * Move x Moon: Interactive Application Logic
  * Renders calendar, SVG moon phase graphics, and daily strategic readings.
  */
 

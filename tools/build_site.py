@@ -21,9 +21,9 @@ def check_emoji(text: str) -> bool:
     return bool(emoji_pattern.search(text))
 
 def validate_production_build():
-    print("=== Moon + Motion: Production Build & Validation ===")
+    print("=== Move x Moon: Production Build & Validation ===")
     
-    target_dir = os.path.join(os.path.dirname(__file__), "..", "Moon + Motion")
+    target_dir = os.path.join(os.path.dirname(__file__), "..", "Move x Moon")
     required_files = ["index.html", "styles.css", "app.js", "lunar_data.js"]
     
     # 1. File existence
@@ -85,7 +85,7 @@ def validate_production_build():
     print(f"[PASS] All {len(required_phases)} lunar phases fully structured with planning, execution, and somatic transmissions.")
 
     print("\n=== BUILD COMPLETE & VALIDATED SUCCESSFULLY ===")
-    print("All production assets in 'Moon + Motion/' are ready for Git commit, push, and GHL embedding.\n")
+    print("All production assets in 'Move x Moon/' are ready for Git commit, push, and GHL embedding.\n")
 
 if __name__ == "__main__":
     validate_production_build()
