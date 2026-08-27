@@ -469,11 +469,6 @@ body {
     grid-template-columns: 1fr;
     gap: 36px;
   }
-
-  .calendar-card {
-    position: static;
-    top: auto;
-  }
 }
 
 /* ==========================================================================
@@ -487,8 +482,7 @@ body {
   border-radius: 0;
   padding: 24px 20px;
   box-shadow: var(--shadow-md);
-  position: sticky;
-  top: 24px;
+  position: relative;
   width: 100%;
   box-sizing: border-box;
   overflow: hidden;
