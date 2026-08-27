@@ -1,6 +1,6 @@
 # MOVE x MOON — Soul Coding Lunar Business Intelligence
 
-*Written as MOVE x MOON • Spoken as Move Amped By Moon*
+*Written as MOVE x MOON • Spoken as Move By Moon*
 
 A deterministic, high-luxury web application delivering grounded celestial intelligence and strategic timing for sovereign business leadership.
 

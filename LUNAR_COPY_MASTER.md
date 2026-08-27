@@ -1,4 +1,5 @@
-# MOON x MOTION — Master Lunar Copy Workbook
+# MOVE x MOON — Master Lunar Copy Workbook
+*Written as MOVE x MOON • Spoken as Move By Moon*
 
 > **Instructions**: Edit any copy, headlines, inquiries, focus areas, pauses, priorities, or somatic transmissions below in Obsidian. When you're ready, let Antigravity know and all 8 phases will be synced directly into the live application!
 
