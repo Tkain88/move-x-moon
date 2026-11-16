@@ -408,6 +408,13 @@ function selectAndRenderDate(dateObj, scrollToReading = false) {
 
 // Initialize Application
 document.addEventListener("DOMContentLoaded", () => {
+  // Hero: four rhythm moons (static illustrations of each phase family)
+  const rhythmMoons = { waning: [50, 270], waxing: [50, 90], full: [100, 180], new: [0, 0] };
+  document.querySelectorAll("[data-rhythm-moon]").forEach((el) => {
+    const spec = rhythmMoons[el.dataset.rhythmMoon];
+    if (spec) el.innerHTML = generateMoonSVG(spec[0], spec[1], 44);
+  });
+
   // Calendar Month Navigation
   const btnPrevMonth = document.getElementById("btnPrevMonth");
   const btnNextMonth = document.getElementById("btnNextMonth");

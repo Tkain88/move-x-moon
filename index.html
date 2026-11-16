@@ -44,20 +44,21 @@
         </div>
       </div>
 
-      <!-- Mobile-Only Hero Feature Image (Hidden on Desktop) -->
-      <div class="hero-mobile-image-frame" aria-hidden="true">
-        <img src="images/hero-mobile-portrait.jpg" alt="Move x Moon Personal Leadership" class="hero-mobile-img" loading="eager">
-      </div>
+      <!-- Night Banner Hero: full-bleed moonlit image, headline over the sky, four rhythms underneath -->
+      <div class="night-hero">
+        <div class="night-hero-stage">
+          <picture class="night-hero-media">
+            <source media="(max-width: 960px)" srcset="images/hero-mobile-portrait.jpg">
+            <img src="images/hero-moon-wide.png" alt="A woman in a long black cape walking a desert ridge at dusk, a full moon above her head" loading="eager">
+          </picture>
 
-      <!-- Full-Width Panoramic Hero Showcase -->
-      <div class="hero-panoramic-card">
-        <div class="hero-panoramic-scrim">
           <div class="hero-content-col">
+            <div class="hero-eyebrow">Your lunar companion</div>
             <div class="hero-title-group">
-              <h2 class="hero-headline">Lead Yourself First.</h2>
+              <h2 class="hero-headline">Lead Yourself <em>First.</em></h2>
               <div class="hero-subtext">The stars are always referencing your feet on the ground.</div>
             </div>
-            
+
             <p class="hero-lead">
               Use each lunar rhythm to plant the seeds of who you're becoming, connect the dots in your everyday life, celebrate how far you've come, and rest without a drop of guilt.
             </p>
@@ -77,6 +78,14 @@
               </div>
             </div>
           </div>
+        </div>
+
+        <!-- The four rhythms, one line each -->
+        <div class="hero-rhythms" aria-label="The four lunar rhythms">
+          <div class="rhythm-item"><span class="rhythm-moon" data-rhythm-moon="waning" aria-hidden="true"></span><div><b>Waning Moon</b><i>Release</i></div></div>
+          <div class="rhythm-item"><span class="rhythm-moon" data-rhythm-moon="waxing" aria-hidden="true"></span><div><b>Waxing Moon</b><i>Build</i></div></div>
+          <div class="rhythm-item"><span class="rhythm-moon" data-rhythm-moon="full" aria-hidden="true"></span><div><b>Full Moon</b><i>Receive</i></div></div>
+          <div class="rhythm-item"><span class="rhythm-moon" data-rhythm-moon="new" aria-hidden="true"></span><div><b>New Moon</b><i>Open</i></div></div>
         </div>
       </div>
     </header>
